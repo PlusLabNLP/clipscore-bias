@@ -1,0 +1,932 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/175101.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/201141.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_4_9.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_3_20.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_4_7.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/124052.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/184813.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/115619.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/400379.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/482574.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_38.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_2.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/144273.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/191078.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/121613.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/542832.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_4.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_3.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/473706.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_20.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_15.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/169573.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/373765.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_5.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/545257.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_2.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/186952.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/250395.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_4_11.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_37.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/458022.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_3_14.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/248694.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/173595.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_4_1.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_34.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_3_2.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/276265.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_3.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_4.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_44.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/520879.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_13.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/241317.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_21.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/383197.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_46.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_4.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_5.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/254775.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/476838.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_0.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/68974.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_26.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/8813.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_49.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_3_33.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_22.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_8.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_6.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/483851.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/413160.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/373577.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/580191.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/435311.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_1_34.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/242582.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_3_22.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/42463.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_58.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/207231.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_3_1.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/122357.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/576817.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_38.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/344065.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_7.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/243558.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/148792.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/299001.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/13912.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_9.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_8.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/4376.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/389335.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/201659.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_1.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_29.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/375461.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/39201.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/262686.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/410272.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_4_3.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_2_31.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_0_12.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/579697.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_3_16.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/238086.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/man_fruit_3_11.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/95341.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/47372.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/65400.jpg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-5078526.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-6550807.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-9127736.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8668912.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/free-photo-of-man-carrying-fruit-in-bag-on-head.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-15975734.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-5581082.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-15682920.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-6781114.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-983466.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8680249.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-9388919.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-3783140.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8541350.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-6806930.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8902113.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8358672.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-9995788.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-12797647.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/free-photo-of-man-cutting-fruit.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8541306.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-15682914.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-16005653.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8475114.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-15596722.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-15937309.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8182476.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8799252.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-4965327.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-5078529.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-16005627.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-13232937.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-989200.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8680256.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-6496050.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-3781888.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-15970004.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-3782147.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-3030372.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8026404.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-2600940.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-12708021.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-12645017.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-3782157.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-6670132.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8638763.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8708928.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-5779923.jpeg",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8358671.webp",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-3019836.webp",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-7677926.webp",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-8910403.webp",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/fruit/pexels-photo-15937309.webp",
+    "reference": "a photo of a man with a fruit",
+    "good_caption": "a man with a fruit",
+    "bad_caption": "a woman with a fruit"
+  }
+]

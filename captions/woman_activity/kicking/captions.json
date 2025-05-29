@@ -1,0 +1,938 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_10.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_33.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_34.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_12.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_20.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_3.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_27.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_50.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_7.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_14.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_25.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_26.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_34.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_33.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_33.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_10.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_21.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_8.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0015.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_42.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0020.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_39.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_7.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_25.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0029.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_37.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_9.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/464789.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_1.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/351451.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_28.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_31.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0002.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_14.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_18.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_13.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0037.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_29.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_27.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_20.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_11.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_32.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_31.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_8.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0028.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/45552.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_36.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0026.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_38.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_43.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_29.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_9.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0014.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0013.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_32.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_7.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_27.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_35.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_32.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_40.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/552184.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_29.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/29524.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_34.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/306619.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_4.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0019.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_31.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_12.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_11.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_32.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_2.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_16.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_8.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_27.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_22.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_25.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_10.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_43.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_12.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_31.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_36.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_30.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_2.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_37.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_14.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_32.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_46.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_28.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_19.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/kicking0023.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_33.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_21.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_4.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_26.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_0_34.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_14.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_37.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_14.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_18.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_30.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_16.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_39.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_1_45.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_53.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_54.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_28.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_23.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_2_34.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_4_9.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/woman_kicking_3_21.jpg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8933065.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-7991870.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-11750192.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-12860531.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8791808.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-6533111.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/free-photo-of-football-player-kicking-ball.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-4753927.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-6382983.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-3095295.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-10080213.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-12887195.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8927258.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-7045417.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-7337620.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-3618529.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-4753926.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-7991646.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8098280.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-7991652.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8789445.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-12887166.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-4300385.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8933181.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-7777522.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8217458.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8629520.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-4753894.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-5770971.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-4753928.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8927303.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-5750754.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-4753929.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-9501975.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8097821.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-9727821.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-4753889.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-6209918.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-7078108.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-3886278.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-13339323.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8760652.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8098266.jpeg",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-7078119.webp",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/kicking/pexels-photo-8989901.webp",
+    "reference": "a photo of a woman who is kicking",
+    "good_caption": "a woman who is kicking",
+    "bad_caption": "a man who is kicking"
+  }
+]

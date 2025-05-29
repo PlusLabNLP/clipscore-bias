@@ -1,0 +1,794 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/64619.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/391747.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_24.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_8.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/96222.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_3_6.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_12.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_15.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_32.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_29.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/552985.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_6.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_30.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/241491.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_45.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_8.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/422155.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/382945.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_28.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/130100.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/555909.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/365782.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_33.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_3_10.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_21.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_3_25.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_13.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_1.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_42.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/291839.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/119571.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/516856.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_3_26.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_4_0.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/104234.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_4_7.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_14.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/371717.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/222324.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/309773.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/368746.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/81200.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/492179.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_3.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_28.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_46.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/103383.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_4_25.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/512416.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_18.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/440480.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/182189.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_4.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_3_27.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_16.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/327481.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_11.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_2_5.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_3_15.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_31.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/216899.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_2_2.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/313246.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/415420.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_4_10.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_2_18.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_40.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_5.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/344548.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_20.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/222453.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_1_4.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_2_11.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_0_32.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_22.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/423204.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/man_candle_2_24.jpg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8191078.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8841430.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-5875345.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8964709.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-5019014.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8964711.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8191068.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8191070.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8916673.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-7707202.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6471907.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6097388.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6013487.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6848247.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-9985938.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6013476.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8191464.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-7946578.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-5018977.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6998582.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-7707222.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6013507.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6848252.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-7867474.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6115121.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6617526.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-236311.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-14692483.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6013480.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-842548.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8720975.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-5018975.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6715174.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6288732.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6715178.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-5018979.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-7417127.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-13672784.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8964712.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-10111635.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-5019012.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6013478.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8487843.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-3563626.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-8191066.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-11574108.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6013468.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-10111638.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-5875353.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-5018981.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6263022.jpeg",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-14099335.png",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-2108767.webp",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6440785.webp",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/candle/pexels-photo-6718543.webp",
+    "reference": "a photo of a man with a candle",
+    "good_caption": "a man with a candle",
+    "bad_caption": "a woman with a candle"
+  }
+]

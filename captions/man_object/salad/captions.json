@@ -1,0 +1,542 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_16.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_22.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_25.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_39.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_2_6.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_2_1.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_17.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_19.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_13.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_0.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_41.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_5.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_8.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/192039.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_22.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_18.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/190115.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_15.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/406296.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_3.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_4.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_0.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_31.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_60.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_1.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/104817.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_44.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_4.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_24.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_31.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_3.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_16.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_2_20.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/450355.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_32.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_21.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_26.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_12.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_2_4.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_23.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_2_3.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_20.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_16.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_13.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_40.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_31.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/453629.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_2_21.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_33.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_4.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/144705.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_2_26.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_22.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_8.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_0_30.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_2.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_1_25.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_1.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_6.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_15.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_17.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_2_5.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_3_22.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/man_salad_4_20.jpg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5425888.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-6740529.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5425879.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-7592337.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5425880.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5425884.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5366639.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-6937456.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-7129170.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5086768.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5425878.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-6740534.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5714270.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-7129401.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-6309747.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-4173181.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5366640.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-12276391.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-4873348.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-7728324.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-6740533.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5425867.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-7129396.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-7728321.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-8183506.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/salad/pexels-photo-5425877.jpeg",
+    "reference": "a photo of a man with a salad",
+    "good_caption": "a man with a salad",
+    "bad_caption": "a woman with a salad"
+  }
+]

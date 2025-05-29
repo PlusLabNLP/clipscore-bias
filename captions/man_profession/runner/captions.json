@@ -1,0 +1,578 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00054.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00085.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00028.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00267.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00177.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00021.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00102.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00026.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00013.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00068.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00061.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00070.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00182.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00077.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00005.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00121.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00079.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00231.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00113.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00030.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00093.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00042.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00094.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00045.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00039.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00060.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00012.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00103.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00027.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00020.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00104.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00052.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00055.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00029.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00038.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00043.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00031.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00112.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00036.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00004.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00078.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00076.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00071.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00091.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00040.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00047.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00111.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00098.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00049.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00035.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00032.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00116.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00124.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00072.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00151.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00009.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00064.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00063.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00222.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00016.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00023.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00100.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00024.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00087.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00172.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00051.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00109.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00008.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00074.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00073.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00186.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00001.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00006.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00033.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00117.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00110.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00099.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00048.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00034.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00097.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00046.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00090.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00041.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00081.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00108.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00057.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00059.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00088.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00101.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00025.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00106.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00134.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00010.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00062.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00019.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/runner/runner00065.jpg",
+    "reference": "a photo of a man who is a runner",
+    "good_caption": "a man who is a runner",
+    "bad_caption": "a woman who is a runner"
+  }
+]

@@ -1,0 +1,1220 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_8.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_6.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_2_23.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0043.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_35.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_40.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_20.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_29.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_44.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_10.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_38.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_17.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_12.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_23.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_1.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_24.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_38.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_20.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_0.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_27.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_16.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_18.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_3.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_9.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_28.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_46.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_5.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_26.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_21.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_34.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_26.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_2_22.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0042.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_13.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_2.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_24.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_19.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_17.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_2_33.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_21.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_25.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_14.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_37.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0061.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_7.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0014.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_45.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_11.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_39.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_13.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_29.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_22.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_14.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_8.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0062.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_10.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_33.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_21.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_17.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_34.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_28.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_46.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_12.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_15.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_39.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_59.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_25.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_6.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_2_5.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_37.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_25.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_2_2.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_34.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_4.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_2_21.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_3.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_19.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_14.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_18.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0018.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_16.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_35.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0063.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_11.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_32.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_15.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_12.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_3_23.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_28.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0058.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_4_7.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/stretching0040.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_11.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_5.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_51.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_36.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_2_4.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_1_24.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_0_38.jpg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8846282.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6295712.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-690598.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6798381.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5837125.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5837147.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-9775825.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4910137.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5275252 (1).jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6345403.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6798385.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5037284.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-7500641.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6698496.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-7500655.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/man_stretching_44.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4047038.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6298345.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4164770.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5837129.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4720284.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8401175.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-3763863.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5036892.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4047158.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5837134.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8436443.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5037289.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6798388.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-3766202.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4046745.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5037362.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5837130.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-7500648.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5319491.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4047159.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6922127.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6295713.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-1701198.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4047155.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8084791.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6011909.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8436929.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6798384.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6111580.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5067957.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6388977.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5319377.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-9623853.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5036855.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4852743.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6975763.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8401907.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5990953.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6623907.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5036849.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5039632.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6295720.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5837126.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4909319.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6798416.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4720262.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8853907.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5319313.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8401135.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4047162.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-1346162.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5036914.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5039654.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5036859.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5037359.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8173420.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5036881.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5837127.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-9486809.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6798417.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8860958.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6188119.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5990938.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4804261.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6798387.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4047007.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-1346163.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8401825.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5037322.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-12169063.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-7445329.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-7187856.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5037292.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-4047022.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5275252.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6598990.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6111623.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-9143878.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-5837160.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8187683.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6975766.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-8401866.jpeg",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-7551627.webp",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-7648080.webp",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-6111621.webp",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-7500645.webp",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/stretching/pexels-photo-518296.webp",
+    "reference": "a photo of a man who is stretching",
+    "good_caption": "a man who is stretching",
+    "bad_caption": "a woman who is stretching"
+  }
+]

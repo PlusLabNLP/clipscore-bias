@@ -1,0 +1,1202 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_21.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_26.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_31.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_12.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_15.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_40.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_24.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_20.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_11.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_16.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_18.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_29.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_6.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_43.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_38.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_27.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_2.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_8.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_32.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_5.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_24.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_1.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_58.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_29.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_5.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_1_18.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_30.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_6.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_7.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_15.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_12.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_19.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_28.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_17.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_26.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_21.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_9.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_10.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_14.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_41.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_25.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_29.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_30.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_13.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_27.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_28.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_1_19.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_7.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_25.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_0.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_33.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_21.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_4.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_3.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_1_17.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_9.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_34.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_30.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_26.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_3.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_9.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_21.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_32.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_4.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_25.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_0.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_28.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_30.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_7.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_10.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_1_2.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_46.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_1_5.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_19.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_3.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_22.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_13.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_14.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_21.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_39.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_33.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_34.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_17.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_26.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_28.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_24.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_1_4.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_18.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_1_3.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_15.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_32.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_16.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_23.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_6.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_24.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_1.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_5.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_33.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_2.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_34.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_8.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_25.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_18.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_29.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_16.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_20.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_44.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_0_23.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_3_12.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_4_10.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/woman_jewellery_2_2.jpg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1444441.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2183286.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7300352.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7585680.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-10040214.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-15701896.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-17042070.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-16354641.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2804970.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2193333.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1525240.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6966101.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-4006577.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-8760631.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2659164.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1249654.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-13626409.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-17040880.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-9634243.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-17040875.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7479694.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1712679.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-9421378.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7273395.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1911580.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1883315.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-17054122.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6984643.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-8541542.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-13539787.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-4888517.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-13966971.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-4910947.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-4619755.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-3872936.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-3774935.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6262831.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6431177.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-16067897.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-3684889.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1043581.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-14005953.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-9421344.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2802761.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-3992080.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2360530.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-16365885.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2943689.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-3768588.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-3851310.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-17042288.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-5029179.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1828877.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-12351580.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1633774.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6984641.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-13720983.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7585194.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2137594.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6964471.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-8524428.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-3746254.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6964465.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1454180.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1484990.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-8750029.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-4564480.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7020616.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7273386.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-9430433.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-17042076.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-12108833.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-16067898.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6988654.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1029610.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1456613.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7273387.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-1637834.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-2810000.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-8750015.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-12591307.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-3385338.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-17000486.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-13828653.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-6964468.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/jewellery/pexels-photo-7320650.jpeg",
+    "reference": "a photo of a woman with a jewellery",
+    "good_caption": "a woman with a jewellery",
+    "bad_caption": "a man with a jewellery"
+  }
+]

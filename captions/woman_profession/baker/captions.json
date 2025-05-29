@@ -1,0 +1,938 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_32.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_20.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_0.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_7.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_29.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_30.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/woman_baker_41.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_43.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_44.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_20.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_9.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_35.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_13.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_7.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_21.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_26.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_6.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_28.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_23.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_31.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_12.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/woman_baker_10.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_4.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_30.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_7.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_42.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_28.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_31.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_33.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_34.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_14.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_25.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_22.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_29.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_9.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_13.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_7.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_20.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_6.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_15.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_1.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_12.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_19.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_17.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_21.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_8.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_21.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_33.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_10.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_26.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_24.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_42.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/woman_baker_52.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_5.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_16.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_22.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_18.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_7.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_9.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_41.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_4.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_46.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_19.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_32.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_14.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_22.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_36.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_15.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/woman_baker_21.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_31.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_12.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_19.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_4.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_17.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_3.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_22.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_16.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_27.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/woman_baker_7.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_32.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_11.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_12.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_24.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_1_15.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_33.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/woman_baker_39.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_2_18.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_8.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_3_2.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/woman_baker_42.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_0_40.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/female_baker_4_6.jpg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3771812.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6578899.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7966516.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7525103.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3893535.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6957920.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-8180072.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6210840.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6205507.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6578889.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3983671.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6957550.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6957428.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-8178911.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6957452.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6996244.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-4451342.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3983699.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-5907568.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6578890.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3983708.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3983710.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-8180063.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7669542.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7525149.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6957921.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-5908176.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6963553.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3893669.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-8178895.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7525106.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6205541.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6210839.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7669726.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7525176.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7966413.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7552712.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-5964621.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6210831.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6205521.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7966484.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6210835.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-4149025.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3983571.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6578887.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3983580.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-5907582.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6957552.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6957436.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6958009.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6963558.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6578902.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7966406.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-8178922.jpeg",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-7552712.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-564883.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3785698.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-8902303.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6077588.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6205509.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-5907571.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-6578899.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3771106.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/baker/pexels-photo-3893546.webp",
+    "reference": "a photo of a woman who is a baker",
+    "good_caption": "a woman who is a baker",
+    "bad_caption": "a man who is a baker"
+  }
+]

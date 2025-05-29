@@ -1,0 +1,638 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_18.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_25.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_47.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_35.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_12.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_31.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_24.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_6.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_38.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_44.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_43.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_17.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_1.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_0.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_35.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_16.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_32.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_20.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_15.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_12.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_24.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_23.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_6.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_7.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_1.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_42.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_0.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_11.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_7.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_45.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_14.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_9.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_37.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_13.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_17.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_33.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_21.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_48.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_24.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_46.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_19.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_23.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_0.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_50.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_32.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_7.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_6.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_9.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_25.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_4.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_8.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_26.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_34.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_28.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_19.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_41.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_4.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_53.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_19.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_9.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_17.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_7.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_10.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_0.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_14.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_30.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_13.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_14.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_45.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_12.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_4.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_28.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_41.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_15.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_3.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_21.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_10.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_17.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_26.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_30.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_45.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_44.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_38.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_4.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_31.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_23.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_24.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_36.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_15.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_16.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_52.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_30.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_8.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_55.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_4_26.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_44.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_43.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_24.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_27.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_20.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_3_11.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_1_40.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_2_5.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/male_lexicographer_0_29.jpg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_19.jpeg",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lexicographer/man_lexicographer_22.png",
+    "reference": "a photo of a man who is a lexicographer",
+    "good_caption": "a man who is a lexicographer",
+    "bad_caption": "a woman who is a lexicographer"
+  }
+]

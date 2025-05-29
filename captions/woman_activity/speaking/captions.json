@@ -1,0 +1,1790 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_16.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_4.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_42.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_45.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_39.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_11.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_3.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_25.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_37.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_14.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_22.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_30.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_13.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_18.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_22.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_26.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_34.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_17.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/418600.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_33.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_10.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_21.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_17.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_5.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0018.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_24.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_19.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_23.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_28.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_7.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_2.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_19.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_32.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_4.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_3.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_9.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_22.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0007.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_13.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_7.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_30.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_14.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_0.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_25.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/213506.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_34.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_21.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_10.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_33.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/291370.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0035.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_17.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_34.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_33.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_26.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_19.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_5.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_46.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_28.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_2.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_41.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/154369.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0047.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_29.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_22.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_6.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_3.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_18.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_4.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_25.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_18.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_32.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_20.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_16.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_27.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_11.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_16.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_31.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_19.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_12.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_23.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_24.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_36.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_15.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_23.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_44.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0050.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_38.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_10.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_2.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_17.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_5.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_43.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_56.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_3.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_40.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_18.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/85183.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_4.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/219454.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0041.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_29.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_16.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_35.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_27.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_35.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_20.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_11.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_32.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_15.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_1.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_24.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/48270.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_23.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/8483.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_12.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_6.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_31.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0008.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_2.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_8.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_34.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/467107.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_33.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_5.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_43.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_38.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_7.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_44.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_0.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_43.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0039.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_23.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_12.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_31.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0037.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_15.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_36.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_9.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_24.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_20.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0005.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_5.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_11.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_32.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_2.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_16.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_27.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_8.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_18.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_30.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_29.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_6.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_1.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_7.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_26.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_21.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_5.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_0.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_60.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_24.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_15.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0014.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_9.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_31.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_12.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_23.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_28.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_27.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_35.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_16.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_32.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_11.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_8.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_27.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_20.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_14.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_6.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_40.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_55.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_13.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_18.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_1.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_0.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_19.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_31.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_28.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_7.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_3.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_17.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_34.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_26.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0003.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_9.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_21.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_4.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_10.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_33.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_14.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_37.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_8.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_25.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_37.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_22.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_13.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_30.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_1.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_42.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_42.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_39.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_6.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_45.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_46.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_28.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_19.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_12.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_0.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_15.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_7.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_41.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_54.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_33.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/473911.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_10.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_9.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_21.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_26.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_1_34.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_17.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_8.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_2_30.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_13.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_29.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_22.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/speaking0069.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3_25.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/7946.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_14.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_20.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_1.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_0_6.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4_27.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_3.jpg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-8344902.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_20.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-7880606.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-4476637.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6787978.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-5399032.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6929203.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6592406.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6953921.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-4471229.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-7690094.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-8872475.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6712718.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-4471230.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-323503.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_53.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6929206.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-5257475.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6457537.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_4.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6953836.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6457549.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-4132430.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-7015069.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-3719037.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-5538603.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6172614.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6457508.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6172591.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-8761528.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-8761515.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6231884.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6172585.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6929208.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-4476634.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-3831888.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6953675.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6953866.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6503001.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-4467860.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-4450327.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6929209.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-4491489.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6457519.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6280922.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-7176300.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6044977.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-5965686.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-7014599.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-3781524.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/pexels-photo-6787972.jpeg",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_21.png",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/speaking/woman_speaking_32.png",
+    "reference": "a photo of a woman who is speaking",
+    "good_caption": "a woman who is speaking",
+    "bad_caption": "a man who is speaking"
+  }
+]

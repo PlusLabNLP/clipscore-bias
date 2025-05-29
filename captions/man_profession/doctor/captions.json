@@ -1,0 +1,3500 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00529.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00148.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00471.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00307.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00223.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_2.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00134.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_14.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_5.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00133.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_13.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_30.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00289.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00476.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00017.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00404.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00065.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00372.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00190.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00256.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00520.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00287.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00478.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00019.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_42.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00197.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00280.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00527.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00146.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_45.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00309.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00403.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_39.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00173.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00218.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00086.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_21.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00391.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00081.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00396.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00515.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00263.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00106.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00398.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_34.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00335.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_3.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00022.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00443.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00495.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00332.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_4.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00025.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00444.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00101.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00216.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00059.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_21.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00438.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00455.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_42.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00484.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_22.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00048.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_30.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00429.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_13.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00207.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00110.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_39.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00389.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00358.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_14.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00117.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00033.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_5.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00483.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_25.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00387.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00356.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00090.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00119.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_20.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00272.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00165.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00504.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00162.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00503.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00046.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00380.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_6.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00351.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00097.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00209.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00318.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00291.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00157.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00621.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00240.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_28.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00412.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00073.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_46.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00415.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00074.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00008.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00296.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00181.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_15.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00247.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_3.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00235.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00006.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_33.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00249.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00460.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00001.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_34.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00159.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00188.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_26.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00544.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_4.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00232.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_32.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00333.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00494.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_5.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00024.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00100.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00089.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_20.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00439.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00107.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00348.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_27.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_16.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00493.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00334.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_2.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00023.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00442.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00109.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00346.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00080.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_29.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00397.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00430.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00175.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00514.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_30.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00262.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00172.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00513.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00265.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00087.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00056.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00437.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00390.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_20.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00250.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00526.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_44.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00402.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00405.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00064.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00373.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00191.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00521.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00479.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00018.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00582.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_4.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00132.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_12.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00288.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00016.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00301.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00198.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_24.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00528.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00149.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00470.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00011.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00306.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00222.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_3.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00135.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_36.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00461.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_35.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_27.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00124.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00123.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_2.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00234.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00310.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00466.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00007.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_32.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_11.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00248.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00362.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00414.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00075.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00009.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00151.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00180.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00246.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00319.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00290.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00156.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00620.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00187.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00241.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_18.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00413.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00072.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_26.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00163.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00502.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00381.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00426.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_7.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00040.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00386.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_0.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00091.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_1.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00118.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_21.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00505.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00388.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_15.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00359.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00201.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00116.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00032.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_4.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00453.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00325.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00482.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00454.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00322.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_23.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_31.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00428.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_9.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_12.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00098.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00206.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00111.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_23.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00120.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00237.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_1.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00313.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00004.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_31.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_19.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00314.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00003.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00462.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_15.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00368.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_24.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00230.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_6.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00293.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_38.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_10.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00184.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00071.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00410.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_44.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00076.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_43.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00152.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00294.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_17.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00245.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00183.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00422.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00385.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00043.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00092.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_18.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_3.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_2.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_9.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00328.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_22.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00270.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00167.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00488.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00277.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00501.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00160.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00382.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00425.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00044.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00095.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_4.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00457.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_0.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_40.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00486.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00321.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00279.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_32.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_11.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00205.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00112.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_16.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00202.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00450.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00031.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00326.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00519.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_1.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00020.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_12.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_6.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00330.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00497.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00446.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00103.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00214.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00510.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00171.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00266.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_34.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_8.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00499.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00448.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00342.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_23.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00434.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00393.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00055.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00083.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00345.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00394.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00433.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00052.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00176.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00261.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_33.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00339.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00228.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00406.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00285.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00522.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_40.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00282.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00138.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00060.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_16.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_27.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00473.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00305.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00221.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00136.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_0.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_18.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_35.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00379.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00131.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00408.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_32.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_20.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00015.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00302.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_34.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_17.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00203.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_6.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00451.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00327.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_26.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00509.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00168.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_1.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00456.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00320.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00278.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_21.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_33.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_10.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00204.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00039.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00489.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00276.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00500.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00161.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00424.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00352.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00384.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00423.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00042.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00355.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_19.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_2.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_28.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00507.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00166.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00077.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00416.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_42.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00238.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00153.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00295.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00244.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_16.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00154.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_39.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00292.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00243.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_11.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00367.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00070.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00549.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_45.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00002.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_37.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_14.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_25.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00369.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00126.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00231.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_7.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00418.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00236.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_0.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00005.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_30.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_18.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_3_13.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00227.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00130.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00551.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00068.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_10.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_1_21.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00014.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00303.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00013.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00472.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00220.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00137.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00556.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_1.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_19.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_17.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00252.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00145.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00283.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00524.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_46.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00139.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00558.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_19.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_17.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00229.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00371.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00523.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00284.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_41.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00082.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00432.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00395.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00053.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00177.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_4_32.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00511.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_9.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00498.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00449.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00028.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00085.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00343.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00269.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_7.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00331.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00447.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00026.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00102.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00215.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00212.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_2_25.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00518.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00179.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/male_doctor_0_0.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00336.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00491.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00440.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_57.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/doctor00021.jpg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7966248.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4021779.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-9628857.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-5452296.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6303594.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-11198228.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-3825527.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6303609.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-5473177.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-5452292.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-3912992.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4046202.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4046278.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6303598.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7407051.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6235231.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-8942645.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7089628.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4270372.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7584493.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4021775.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7089619.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_41.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6627896.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-5726784.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6010866.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-11122221.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7407050.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7966285.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7108174.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6129243.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-3779711.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-1170979.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6627824.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6303608.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4045761.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7108221.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4046275.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6010793.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6753442.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6627784.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6234626.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7579831.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4031824.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6235236.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7108172.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7089386.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6234622.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6235115.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6129049.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7108176.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6627832.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-5726711.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-10617951.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6249818.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6129237.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-3912955.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7469233.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-3825586.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6011663.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4266944.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6235649.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6627732.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6010868.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4046277.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6235651.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6303593.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-8942107.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6303596.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6823399.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-10794860.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7089622.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-3912961.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-11198236.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4045762.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4046276.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-5722163.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6234616.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6753421.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7108173.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6010865.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-6235237.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-4033148.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/pexels-photo-7469226.jpeg",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/doctor/man_doctor_45.png",
+    "reference": "a photo of a man who is a doctor",
+    "good_caption": "a man who is a doctor",
+    "bad_caption": "a woman who is a doctor"
+  }
+]

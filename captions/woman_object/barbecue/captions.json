@@ -1,0 +1,746 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_31.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_15.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_36.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_0_24.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_0.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_4.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_44.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_9.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_17.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_3.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_25.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_20.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_18.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_27.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_15.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_31.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_12.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_4.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_6.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_29.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_32.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_18.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_27.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_16.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_47.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_26.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_24.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_4.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_8.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_2.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_16.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_45.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_14.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_37.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_6.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_13.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_30.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_0_33.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_10.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_21.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_26.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_0_34.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_17.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_28.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_7.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_2.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_32.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_5.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_22.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_25.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_14.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_14.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_13.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_22.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_0_42.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_28.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_1.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_26.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_10.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_21.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_8.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_22.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_0_13.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_25.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_14.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_0.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_19.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_6.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/293554.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_46.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_26.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_15.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_1.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_0_21.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/64350.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_10.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_53.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_8.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_34.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_32.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_11.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_20.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_9.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_27.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_16.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_0.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_7.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_5.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_23.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_43.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_15.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_9.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_16.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_0_20.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_4.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_11.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_32.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_0.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_18.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_7.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_13.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_0_29.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_26.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_1_6.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_4_21.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_24.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_3_23.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/woman_barbecue_2_31.jpg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-1414221.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-11480989.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-2313228.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-10020163.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-2010701.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-12345913.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-6872180.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-13572280.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-3276235.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-344102.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-7893796.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-4311060.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-6950723.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-10020178.jpeg",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/barbecue/pexels-photo-2313228.webp",
+    "reference": "a photo of a woman with a barbecue",
+    "good_caption": "a woman with a barbecue",
+    "bad_caption": "a man with a barbecue"
+  }
+]

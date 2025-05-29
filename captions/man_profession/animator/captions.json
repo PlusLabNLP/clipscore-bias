@@ -1,0 +1,542 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_17.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_22.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_25.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_24.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_23.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_5.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_16.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_2.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_11.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/man_animator_24.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_20.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_12.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/man_animator_29.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_15.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/man_animator_27.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/man_animator_8.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_1_0.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_2_45.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/man_animator_28.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_14.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/male_animator_0_21.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/man_animator_14.jpg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-12447586.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5538276.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5745230.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-9354358.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-4430318.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-7781988.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-14938950.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749113.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-7470633.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5859806.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-15226353.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5904050.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5088002.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-4878663.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-1337303.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-7470632.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-1462363.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-6235664.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-9354401.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749822.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-13939465.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-10127367.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5079260.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-9985949.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749807.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-16193373.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5247971.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-6440622.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-16191629.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749112.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5490724.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749803.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-7782339.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5427939.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-8064264.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-2482320.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5821002.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-1171124.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749820.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-15011208.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749811.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-6752290.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-8734466.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749114.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5087988.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-13887066.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/racehorse-horse-race-course-sport-53122.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-6209959.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-16180829.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-16168091.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-4992439.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-9354913.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5531166.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-7533351.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-7533360.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-7681047.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-12893376.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749109.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-16202575.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5538270.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-16168090.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5859810.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-1462359.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-1462355.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5749797.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-12756374.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-5541660.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/animator/pexels-photo-16194612.jpeg",
+    "reference": "a photo of a man who is an animator",
+    "good_caption": "a man who is an animator",
+    "bad_caption": "a woman who is an animator"
+  }
+]

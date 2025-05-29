@@ -1,0 +1,416 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_1_17.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_4_1.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_42.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_39.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_45.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_37.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_30.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_3_10.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_21.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_26.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_28.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/man_jeweler_54.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/man_jeweler_53.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_31.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_36.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_38.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_44.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_1_2.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_43.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_1_11.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_4_7.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_4_0.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_29.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_27.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_20.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/man_jeweler_58.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_16.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_18.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_23.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_35.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_32.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_1_1.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_40.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_1_6.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_3_0.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_3_31.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_4_4.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_25.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/man_jeweler_17.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/man_jeweler_50.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_2_34.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/man_jeweler_3.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_2_33.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_3_21.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_1_14.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_4_2.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_1_7.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_46.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_1_0.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_41.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_33.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/male_jeweler_0_34.jpg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-7167025.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-6263147.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-5214271.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-7353539.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-7166996.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-955525.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-1050321.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-6263148.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-7167013.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-6263107.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-6263136.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-6263154.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-6263137.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-6262827.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-7166981.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-8715787.jpeg",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/jeweler/pexels-photo-8179440.webp",
+    "reference": "a photo of a man who is a jeweler",
+    "good_caption": "a man who is a jeweler",
+    "bad_caption": "a woman who is a jeweler"
+  }
+]

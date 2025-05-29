@@ -1,0 +1,2402 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/554992.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0010.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/551446.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/238584.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0062.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/184313.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/526401.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/331785.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_25.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_14.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_8.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_18.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0019.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_30.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0065.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_26.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/520572.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/174705.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_17.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_9.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/524366.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0086.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0057.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_10.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/420422.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_21.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/333099.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0088.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0059.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/453799.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/380979.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_24.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/300738.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/69983.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_28.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_23.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/459208.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/89790.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/365117.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_19.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_32.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_1.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/444576.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/274516.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0034.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/484110.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/487464.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/522411.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_8.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_22.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0046.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_30.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/480776.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_13.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/424378.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_14.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/316968.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_25.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0041.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/455881.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0090.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/17570.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/290234.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0008.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/360747.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/286151.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_33.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_10.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/158713.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_3.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0074.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_17.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0073.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/419477.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_26.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_21.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/194598.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_53.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_46.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_28.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0001.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/370722.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_41.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_7.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/21253.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_22.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0023.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/320066.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_18.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/455916.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/IMG_3496bfree.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0089.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_1.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/533520.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_25.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0024.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/89115.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/182497.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/219250.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/428149.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/440404.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0087.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0056.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_11.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_20.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_27.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/194756.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0080.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0051.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_16.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/292188.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_36.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0018.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_31.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/447345.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0064.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/555763.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/437148.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/558253.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_23.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0063.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/34097.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/354398.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/186608.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_24.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_31.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_15.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_9.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/301641.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_10.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0011.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/212380.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/118124.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_38.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/95702.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/418229.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_38.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_17.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/471868.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/280156.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_0.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/403255.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/417741.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/232762.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_40.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/324772.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/20779.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_6.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0007.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/354427.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_55.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/509235.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_52.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/171360.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/361721.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/501441.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_1.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/372003.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_35.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_16.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0072.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/361059.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/370917.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_27.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/268065.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_20.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/331201.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_20.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_8.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_32.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_11.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/212969.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/457054.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_2.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/533827.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0075.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_15.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/226472.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/529580.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/232329.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0091.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_23.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_9.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0096.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/255808.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/8238.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/490582.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_7.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0049.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/544272.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0035.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_33.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/495665.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_0.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/543747.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_60.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/200060.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/196842.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/473326.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_51.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_44.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_2.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0004.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/291404.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/438331.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0078.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/58987.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_31.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_1.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/512411.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0076.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/108688.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/300987.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0071.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/106794.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_24.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/565975.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0095.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/203926.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/89390.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/570358.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_27.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/166896.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0043.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0092.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_30.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/197071.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/65643.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_29.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/475407.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/97818.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/424308.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/562704.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0036.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/263031.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/69559.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/447135.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0027.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_26.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/225329.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/272022.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/277533.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/350497.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_5.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/365202.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_24.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/468981.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0052.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_15.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/401812.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0084.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0055.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/368663.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_12.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/411554.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_28.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/400475.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_23.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/17697.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0060.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/324870.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/308175.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_27.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_16.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_32.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/477807.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_11.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_32.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0067.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_49.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_20.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0015.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_14.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0069.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/384422.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_29.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_4.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_5.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0037.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/360778.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/495570.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0030.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_31.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/184720.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_2.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/214369.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/329380.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_34.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/410580.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_26.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/105115.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0093.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/122551.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0045.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0094.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_33.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_37.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_7.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0070.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/271043.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/301187.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_22.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/110357.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_22.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_30.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_13.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0077.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_59.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_42.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_8.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0005.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/445010.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/16056.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0079.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/31240.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/40399.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_3.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_28.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_12.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/364927.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_15.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0014.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_2.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0068.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/421305.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_46.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/123512.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/98658.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_33.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0066.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_48.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/35966.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_21.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0061.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_26.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_1_34.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0085.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/321709.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_13.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_22.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_3_25.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/67515.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/317210.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0053.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/194398.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_0_14.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/12666.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/486369.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/559665.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/122863.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_2_4.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/300791.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_4_27.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/driving0026.jpg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-6271726.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-2954928.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-4797632.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-3449186.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_26.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-6945649.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-6838907.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-4606402.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-3327578.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-2524337.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9519974.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-614499.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-3061425.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-5207000.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-4923106.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-3353610.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-6787683.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-6542480.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-3822843.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-15571612.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9519034.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-4005325.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-4606350.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9519228.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-5207002.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-6271670.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-776494.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9530553.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9530534.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_9.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9519973.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-3082619.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-595806.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-104371.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-620335.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9519031.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-3991602.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-2524330.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9519035.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-1322913.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/pexels-photo-9519225.jpeg",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_25.png",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/driving/man_driving_5.png",
+    "reference": "a photo of a man who is driving",
+    "good_caption": "a man who is driving",
+    "bad_caption": "a woman who is driving"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_5.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_36.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_4.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_16.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_11.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_1_20.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_1_36.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/562308.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_16.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_19.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_17.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_34.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_3_26.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_3_21.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_10.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_3_14.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_22.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_30.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_14.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_28.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_21.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_1_33.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_57.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_26.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_46.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_37.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_8.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_34.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_28.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_1_19.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_1_10.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_3_16.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_20.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_1_40.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_3_18.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_4_26.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_15.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_18.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_3_23.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_12.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_31.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_3_7.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_1.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_6.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_8.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_44.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_38.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_0_43.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/man_steak_2_15.jpg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8477297.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-7133849.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-7133845.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-4253315.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8523186.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-11254663.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-7133844.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8477056.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8523172.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8477063.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8523511.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-5526737.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8523166.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8477054.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8477298.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-4311062.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-13279395.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-4311056.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8523184.jpeg",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8477298.webp",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-5526732.webp",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/steak/pexels-photo-8477297.webp",
+    "reference": "a photo of a man with a steak",
+    "good_caption": "a man with a steak",
+    "bad_caption": "a woman with a steak"
+  }
+]

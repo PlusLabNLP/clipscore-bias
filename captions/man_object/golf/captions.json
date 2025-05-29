@@ -1,0 +1,1016 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_15.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_36.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_24.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_1.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_6.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_19.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_31.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_17.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_44.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_29.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_18.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_4.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_22.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_16.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_0.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_27.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_20.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_32.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_12.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_1.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_33.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/228943.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_8.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_9.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_18.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_0.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_11.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_20.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_7.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_35.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_16.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_6.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_21.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_10.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_17.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_26.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_34.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_1.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_19.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_5.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_28.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_23.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_24.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_2.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_11.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_39.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_45.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_16.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_22.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_7.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_18.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_30.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_37.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_25.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_6.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_17.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_1.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_10.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_21.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_32.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_25.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_7.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_13.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_0.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_22.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_2.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_30.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_13.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_5.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_37.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_7.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_28.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_19.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_33.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_3.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_26.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_34.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_4.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_14.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_8.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_2.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_25.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_5.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_13.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_30.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_27.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_15.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_12.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_19.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_28.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_46.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_17.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_34.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_26.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_21.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_33.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_27.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_20.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_29.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_30.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_38.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_24.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_4.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_15.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/18942.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_3.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_12.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_20.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_11.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_32.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_16.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_35.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_27.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_13.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_1_40.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_7.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_21.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_26.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_0.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_4.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_12.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_2_31.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_0_15.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_4_9.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_3.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/man_golf_3_24.jpg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/free-photo-of-man-hitting-the-ball-with-a-club-in-golf.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-3554344.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376286.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-1325672.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-1325727.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6256828.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6256592.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6542392.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6542427.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-1637731.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6501721.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-1325769.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-8550822.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6542461.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-3692901.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6542432.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-8550817.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376291.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6542438.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376278.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/free-photo-of-men-playing-golf.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-1325661.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-12597299.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6542428.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376281.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6542395.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376285.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6256849.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376274.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-4119371.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-9970202.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6542429.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376280.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-1325725.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376275.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-1409004.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-9970203.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376290.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-15376288.jpeg",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/golf-sunset-sport-golfer.png",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-6256894.webp",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/golf/pexels-photo-7851069.webp",
+    "reference": "a photo of a man with a golf",
+    "good_caption": "a man with a golf",
+    "bad_caption": "a woman with a golf"
+  }
+]

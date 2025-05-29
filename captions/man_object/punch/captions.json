@@ -1,0 +1,614 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_1_0.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_21.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_20.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_28.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_45.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_42.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_1_25.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_1_19.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_53.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_27.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_1_1.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_1_8.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_2_0.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_36.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_31.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_43.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_1_15.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_32.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_35.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_46.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_1_27.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_34.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_40.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_24.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_23.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_41.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_46.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_34.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_40.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_2_10.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_33.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_2_2.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_1_13.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_18.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_17.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/man_punch_0_25.jpg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4804295.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-927437.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-290416.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-9944896.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-5750961.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4804251.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-2600493.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6003789.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4398896.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4401810.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6815690.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4754126.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-5750916.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/box-sport-men-training-163403.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7992152.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-5750641.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-11338386.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-9944897.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4584270.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4804058.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4753984.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456225.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4761788.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-3586873.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4398895.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456221.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-9944899.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7992148.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7699468.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456235.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7289990.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7991671.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456266.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7024160.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7045513.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7289994.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456231.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-9944849.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456262.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7187935.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4398898.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7991659.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-5750952.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4804266.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7045749.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456230.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-3531081.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-15940892.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4398920.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456263.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4804039.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-3760790.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-9944844.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-9944909.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-598631.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-9944898.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7005124.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-652348.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-6456238.jpeg",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4401653.webp",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7991193.webp",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-652348.webp",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7991685.webp",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-3761725.webp",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-4804300.webp",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/punch/pexels-photo-7991683.webp",
+    "reference": "a photo of a man with a punch",
+    "good_caption": "a man with a punch",
+    "bad_caption": "a woman with a punch"
+  }
+]

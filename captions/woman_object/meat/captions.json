@@ -1,0 +1,1034 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_10.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_33.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_26.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_6.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_17.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/442638.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_28.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_8.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_45.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_11.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_9.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_39.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_42.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_13.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_30.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_0.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_26.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_6.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_10.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_5.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_46.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_28.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_9.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_32.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_0.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_7.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_22.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_15.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_6.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_36.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_19.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_12.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_1.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_31.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_17.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_38.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_8.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_9.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_18.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_27.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/73568.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_6.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_23.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_31.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_12.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/205601.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_15.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_24.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_18.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_40.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_3.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_7.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_32.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_16.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_0.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/389974.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_2.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_27.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_20.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_29.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_43.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_7.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_44.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_24.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/204549.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_31.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_12.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_11.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_32.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_2.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/447627.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_5.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_13.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_14.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_40.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/501348.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/64350.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/550449.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_12.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_3.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_15.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_4.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_39.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/500400.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_30.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_13.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_37.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_39.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_6.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_45.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_42.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_19.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_28.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_4.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/399841.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_17.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_3.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_26.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/504230.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_2.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_2_30.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_22.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_4_15.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_41.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_26.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_17.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_4.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_3_10.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_3.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_1_33.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/woman_meat_0_21.jpg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6660282.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363692.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-10292067.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7790013.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/free-photo-of-woman-drinking-red-wine-in-vineyard.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6646272.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-3171160.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-723031.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363696.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063689.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063616.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363934.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-12387389.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-14776258.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-10432659.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/free-photo-of-woman-buying-meat-from-a-street-vendor.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6555007.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-5738399.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063694.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363983.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-8862792.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-5528983.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-9513580.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-3272281.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-5463858.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063690.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/free-photo-of-photo-of-a-woman-cooking-on-a-sandy-beach.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063615.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6697263.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6004793.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363710.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063620.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-3276235.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363708.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-5876623.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063696.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-2497903.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363974.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-8477348.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6660285.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363958.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063697.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-1000339.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-15929366.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6646274.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-5864755.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7790024.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363694.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6697381.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-8479690.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-13119101.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-5848012.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-8862785.jpeg",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-4063696.webp",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6697375.webp",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-10432653.webp",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-11480989.webp",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-6697264.webp",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-7363983.webp",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/meat/pexels-photo-5920667.webp",
+    "reference": "a photo of a woman with a meat",
+    "good_caption": "a woman with a meat",
+    "bad_caption": "a man with a meat"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_59.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_24.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_15.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_12.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_31.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_3_8.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_10.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_3_1.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_20.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_35.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_8.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_6.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_1.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_16.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_17.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_13.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_56.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_14.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_0.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_7.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_34.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_9.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_1.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_4_11.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_4.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_3.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_22.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_25.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_2.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_60.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_14.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_17.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_10.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_33.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_41.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_19.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_3.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_18.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_16.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_11.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_23.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_2.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_5.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_18.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_4.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_26.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_2_11.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_0_32.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_20.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_27.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_53.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_12.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_4_1.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman-girl-young-beauty.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/woman_perfume_1_15.jpg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536621.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-3774939.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450546.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17072659.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536307.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536610.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-4333584.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17042286.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17044003.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-5760907.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-12368706.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/free-photo-of-woman-in-coat-lying-down-among-perfumes-and-boxes.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17042001.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450339.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8217783.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8501677.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-9790397.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-6793197.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450448.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-4333611.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-7011393.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-5564227.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8323833.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-9790393.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10544084.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450530.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450334.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450098.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8217767.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-11414597.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-3865693.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17045109.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-7191985.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-3865697.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-4333578.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-12616233.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17042293.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536287.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-14596575.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17055131.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450196.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10544091.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-14833521.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536609.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-5760897.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450101.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450539.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-12368707.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-14687029.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17064755.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17045061.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/free-photo-of-woman-holding-perfume-bottle.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17067524.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8501676.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536603.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17042318.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-7191987.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17058483.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-6954639.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10537090.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17045639.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-6729574.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17081007.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17045643.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-9790390.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-14596577.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8217790.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-3774940.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-5760900.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536304.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536613.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536617.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-12662229.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-4736016.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17062001.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450327.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-11414584.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536288.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17060509.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-5062728.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17060694.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/free-photo-of-blonde-woman-with-perfume-flask.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17081027.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-13540274.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536627.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17042003.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-2369161.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536602.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-3865690.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450536.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10001701.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8891274.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10544082.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17042319.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-10536280.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-11567101.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-5760898.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8217751.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17045638.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-17045642.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-4412438.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-14596576.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8236521.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-8450532.jpeg",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/perfume/pexels-photo-7609037.webp",
+    "reference": "a photo of a woman with a perfume",
+    "good_caption": "a woman with a perfume",
+    "bad_caption": "a man with a perfume"
+  }
+]

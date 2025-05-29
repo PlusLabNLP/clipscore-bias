@@ -1,0 +1,2270 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_19.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0151.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_28.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0297.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0246.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_46.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0156.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0290.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0241.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0187.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_41.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_49.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_8.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0072.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/spot-runs-start-la.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0189.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0124.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0233.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_6.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_33.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0234.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_34.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_26.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0248.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0007.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0116.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_22.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_30.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_7.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_13.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0032.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_14.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_0.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0206.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0111.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_25.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0098.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0274.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0163.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0208.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0047.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0096.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0091.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0273.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0080.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0051.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0109.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0175.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_24.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_28.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_8.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0087.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_19.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0056.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0219.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0024.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_26.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_6.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_17.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0089.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_34.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0058.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0100.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0217.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_33.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0107.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0210.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0023.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_21.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_7.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_25.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0225.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_51.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0301.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0288.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0011.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_18.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0198.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0149.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_0.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_22.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0135.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_4.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0196.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_16.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0147.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0281.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0063.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0064.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_9.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_3.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0257.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_39.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0140.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0119.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0041.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0090.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0272.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0165.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0275.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0209.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0046.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0097.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_15.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0110.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0048.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0099.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0200.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0117.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_23.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_31.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_6.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_12.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0122.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_0.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_35.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_16.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_27.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0298.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0006.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0159.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0188.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0125.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_46.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_32.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_11.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_34.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0186.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_40.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0073.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0074.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_18.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_29.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0150.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0247.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0181.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0008.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0065.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_44.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0019.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_2.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0256.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0190.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0141.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0287.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_5.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0251.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_17.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0197.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0146.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_43.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0010.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_12.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0199.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_19.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_31.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_1.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_23.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0134.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_24.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_50.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0017.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0258.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0289.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_32.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0106.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0211.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_19.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_0.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0025.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_27.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_7.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_16.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0088.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0059.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0101.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0216.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0173.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_29.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_9.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0086.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_18.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0057.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0218.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0081.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0108.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_17.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0174.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_14.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0252.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0283.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0145.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_40.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0066.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0193.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0284.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0142.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0068.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_5.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_27.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0227.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_53.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0130.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_16.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0013.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_32.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_2.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_20.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0220.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_54.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0137.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0026.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_4.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_15.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0102.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_12.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_31.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0212.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0179.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_28.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0082.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0053.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0177.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_26.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0028.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0267.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_21.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0085.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0054.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_18.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0161.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0039.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0042.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0093.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0271.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0203.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0114.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_32.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0168.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_11.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0278.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_16.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0204.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_39.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_23.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_45.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0126.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0231.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_31.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0121.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_36.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_24.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_38.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0295.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0153.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_44.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0154.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0185.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0243.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_43.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0070.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0171.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_20.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0084.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0052.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0261.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_27.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_13.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_30.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0020.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0178.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_2.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_22.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_29.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0027.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_5.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_14.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0214.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_33.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_3.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_21.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0221.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_55.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0069.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_4.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_26.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0131.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_17.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0067.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_28.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0228.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_46.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_0.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0192.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_19.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0254.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0285.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0143.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_4_15.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0253.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0282.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0144.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0060.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_41.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0138.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0293.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0184.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_42.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0129.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0071.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_39.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0076.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0183.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0245.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_45.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0120.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0237.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_37.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_2.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_14.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0004.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_38.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_22.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0127.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_0_30.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_13.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0279.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_34.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_17.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0036.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0205.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_26.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0202.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0115.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_21.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_3_33.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_4.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0031.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0043.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0092.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0270.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0167.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0277.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1_19.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0038.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_1.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0044.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_2_28.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/running0095.jpg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-2803158.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-3612131.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-7188065.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-16010175.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-7188050.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-2526883.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-4719928.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-12169105.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-8968779.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-4803915.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-3638093.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-2524747.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_57.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-3692604.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_18.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-5037385.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-2524746.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-3096550.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-4719916.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-2524742.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-5037287.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-235922.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-1555351.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-4016898.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/pexels-photo-3693205.jpeg",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_47.png",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/running/man_running_41.png",
+    "reference": "a photo of a man who is running",
+    "good_caption": "a man who is running",
+    "bad_caption": "a woman who is running"
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_5.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_1_10.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_0_37.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_0_12.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_4.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_3.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_1_32.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_1_23.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/woman_decorator_10.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_16.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_0_16.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_0_18.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_0.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_7.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_1_31.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_0_46.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/woman_decorator_20.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_10.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_1_9.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_1_26.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_17.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_0_22.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_1_30.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_8.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/female_decorator_2_1.jpg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4499860.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7075022.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/free-photo-of-woman-in-traditional-dress-posing-outdoors.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4992862.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-3992213.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6958023.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7256747.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6248773.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6231583.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7075026.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5410070.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4049632.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7883486.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4050436.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/free-photo-of-woman-in-mini-and-jacket-in-winter.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6913762.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5409715.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6280456.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6765532.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/free-photo-of-women-wearing-traditional-clothing-sitting-on-a-decorative-blanket-with-food.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6347925.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7737818.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6231743.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-3747457.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5414036.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6291001.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5760776.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6231613.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5641957.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5641759.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7075023.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6231586.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-8532758.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5641764.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5760814.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7787178.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-3585038.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-3817500.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7626622.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6773359.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7036523.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6231611.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6373503.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-14003768.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5409759.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6001511.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4491480.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6032699.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6580013.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7075021.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5393450.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-3303614.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7075025.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7525182.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7075020.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5750139.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5641767.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5409765.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4499857.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5409667.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6925184.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4787615.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7075019.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5409713.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4690321.jpeg",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-3992370.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4353622.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-5915224.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4123022.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7205806.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7205812.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6954145.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-6773228.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-914931.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-4353615.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-3817641.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-3817547.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/decorator/pexels-photo-7319320.webp",
+    "reference": "a photo of a woman who is a decorator",
+    "good_caption": "a woman who is a decorator",
+    "bad_caption": "a man who is a decorator"
+  }
+]

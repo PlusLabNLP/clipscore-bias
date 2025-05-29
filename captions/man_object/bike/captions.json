@@ -1,0 +1,2336 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/320641.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_28.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/489107.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/117222.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_9.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/148843.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/145025.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/456478.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_17.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/96457.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/530896.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_10.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/242526.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/364833.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/339734.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_21.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/75052.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_3.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/265943.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_58.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_25.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_5.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/541486.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/523357.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/545549.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/34866.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_13.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/18882.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/365652.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/326202.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/143151.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/308433.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/67269.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/216861.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_56.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/127400.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/536534.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/205432.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/475389.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/68532.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/212969.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/430245.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/158286.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/61897.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/233637.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_7.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/18783.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/501176.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/268065.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/296257.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/27037.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/36482.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/565387.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/507741.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/418816.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_21.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/380920.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_32.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/412151.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_33.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/494642.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/253975.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_17.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_3.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/187569.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/196510.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/21751.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/262136.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/92710.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/250730.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/537206.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_22.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/227186.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/493339.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_37.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/76942.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/450308.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/511231.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/398697.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/493846.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_25.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/494174.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_11.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_39.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/506927.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_45.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/89378.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/309526.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/71182.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/58926.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/161121.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/113521.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/321821.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/437643.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/528729.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/149623.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/534511.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/400107.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/378198.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/153692.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_12.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_3.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/298799.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_59.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/203458.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/215456.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/521197.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/509914.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/234352.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/358237.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_10.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_2.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/571970.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_17.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_27.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_5.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/58296.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_35.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_16.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/120340.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/124306.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/10393.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/251974.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/455675.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/314257.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/238086.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/488480.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/365614.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/12933.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/243418.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/150559.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/438537.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/492754.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/575702.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/320550.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/6489.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/460897.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_10.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_38.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/25833.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/581061.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_15.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_3.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_36.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/242008.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_23.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_4.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_31.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/419265.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/139637.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/385972.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/116725.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/508302.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/124979.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_27.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/390298.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/250156.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_8.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/522423.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/104588.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_20.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/123975.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_32.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/365527.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/382669.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/8794.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/120682.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/176536.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/51643.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/389844.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/179969.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/146112.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_18.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/187914.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/353748.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_29.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_22.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/313093.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/122551.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/90359.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/83580.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_29.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/51052.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/52308.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_20.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/182820.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_35.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/427449.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/31813.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/84585.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/430455.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/481147.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/390315.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_12.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_31.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_6.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/414647.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_15.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/215782.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/257815.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/490847.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/137694.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/32997.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_21.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_5.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/531069.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/50868.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_39.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/539358.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/130581.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/7710.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/326108.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/80471.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/136070.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/175737.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_42.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/523487.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/195463.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_54.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/306800.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/494534.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_30.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_27.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_7.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/344271.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/177467.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/444800.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/559312.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_32.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/331082.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/361382.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_20.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/59843.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/528962.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/390137.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/303738.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/176765.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/437522.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/484563.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/282145.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_24.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/527112.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/264961.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/367409.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/431113.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/129143.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_31.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_12.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/176440.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/179532.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/520427.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_1.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/115741.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/43773.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/503108.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/352182.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_43.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/162547.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/69052.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/123552.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/215867.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/148841.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/251453.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/98596.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/412491.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/484028.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/155302.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_27.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/506026.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_3.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/298784.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/396958.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/67117.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/256981.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/147331.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/375947.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4_4.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/320200.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/255604.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/78813.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_14.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_25.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/197886.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/578345.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/250991.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_31.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/539977.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/421773.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_1.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_34.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/351968.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/343878.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/82246.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/126757.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/111409.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_26.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_21.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_3_10.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/101656.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/331366.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/171351.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_33.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/199743.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_41.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_8.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/303768.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/423875.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/515743.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_46.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/445603.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/410680.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/329755.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/203655.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_39.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/81103.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/451016.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/492020.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/227587.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/49592.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/150197.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/203124.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_30.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/296901.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/504498.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/106375.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/169633.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_12.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/210847.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_2_0.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_22.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/483108.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_4.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_1_25.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/383777.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_37.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/294379.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/87509.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/433910.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/98043.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/152543.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/man_bike_0_6.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/127134.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/102306.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/6692.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/20962.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/238808.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/225686.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/454659.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/517485.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/157020.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/131804.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/579729.jpg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-4254899.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-6141097.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-2256845.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-15998291.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-15993929.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-15566117.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-281967.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-3117844.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-15979278.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-4026088.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-6140723.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-2036262.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-9213617.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-1091270.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-3010197.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-2948295.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-997217.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-7706567.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-15993713.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-2224698.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-6141001.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-6140911.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-5061109.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-6140932.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-16005649.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-2313224.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-16066150.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-15998292.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-16184013.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-16759574.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-2734611.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-16044816.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-5061108.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-2361037.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-2224697.jpeg",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/bike/pexels-photo-7099138.png",
+    "reference": "a photo of a man with a bike",
+    "good_caption": "a man with a bike",
+    "bad_caption": "a woman with a bike"
+  }
+]

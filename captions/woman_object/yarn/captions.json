@@ -1,0 +1,1202 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_10.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_0_33.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_21.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_26.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_2.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_17.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_8.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_0_34.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_28.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_28.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_0_46.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_19.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_32.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_0.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_30.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_22.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_25.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_14.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_34.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_26.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_21.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_24.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_28.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_42.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_16.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_11.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_14.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_30.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_13.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_24.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_15.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_31.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_12.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_23.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_34.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_33.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_6.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_29.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_18.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_7.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_3.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_9.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_4.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_31.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_19.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_12.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_15.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_10.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_44.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_17.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_22.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_25.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_20.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_9.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_32.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_27.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_35.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_49.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_32.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_32.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_11.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_18.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_26.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_21.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_3.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_24.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_28.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_31.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_11.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_32.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_11.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_20.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_27.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_29.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_4.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_56.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_9.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_0_43.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_12.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_23.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_23.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_7.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_0.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_0_36.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_29.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_22.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_30.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_27.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_5.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_12.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_41.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_15.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_33.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_17.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_0_26.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_1.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_14.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_22.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_6.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_8.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_28.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_19.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4_31.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_26.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_17.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_34.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_1_10.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3_33.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_2_21.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_4.jpg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-6633528.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7696965.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788364.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788200.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5693006.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585748.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585225.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5467475.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-6634230.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5691920.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-3771080.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585794.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/free-photo-of-woman-with-a-red-string-under-her-eye.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5692999.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788496.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788302.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7205807.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-14086416.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585769.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5710034.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5603254.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5691919.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788381.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585784.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5585242.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788178.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/woman_yarn_3.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7205806.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7669374.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585263.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5709740.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788380.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5585243.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585864.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5789598.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5467470.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585812.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5693007.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788307.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-3654771.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585791.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585224.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7205812.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7261526.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5789014.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585795.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-16973487.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-4968618.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585800.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-6001414.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5693379.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5692181.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585236.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-2907211.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788311.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5693380.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585226.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585766.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5585251.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-675924.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585245.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5789013.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585763.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585227.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5693000.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7696963.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-3690657.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5603190.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585223.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-2892419.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788183.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-3984874.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585617.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585801.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5603252.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788299.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585746.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5693008.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/free-photo-of-old-woman-weaving-on-retro-machine.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-3984868.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5603198.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5585240.jpeg",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5788142.webp",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-6347910.webp",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-5709964.webp",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-3965568.webp",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-7585784.webp",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-3738086.webp",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/yarn/pexels-photo-2892373.webp",
+    "reference": "a photo of a woman with a yarn",
+    "good_caption": "a woman with a yarn",
+    "bad_caption": "a man with a yarn"
+  }
+]

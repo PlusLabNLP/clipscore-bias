@@ -1,0 +1,770 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_20.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_32.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_16.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_27.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_57.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_29.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_59.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_25.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_3.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_10.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_44.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_2.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_19.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_1.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_24.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_27.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_16.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_11.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_20.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_40.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_6.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_1.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_18.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_5.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_2.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_33.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_15.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_41.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_23.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_14.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_37.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_0.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_13.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_30.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_3.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_4.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_16.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_2.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_23.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_19.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_28.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_34.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_21.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_30.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_13.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_14.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_3.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_32.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_19.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_33.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_10.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_26.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_17.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_17.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_33.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_21.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_31.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_0.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_42.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_4.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_45.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_3.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_39.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_37.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_13.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_21.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_10.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_33.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_60.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_34.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_9.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_3.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_19.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_7.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_0.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_6.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_1.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_30.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_8.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_14.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_55.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_36.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_44.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_38.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_18.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_6.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_32.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_11.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_2_20.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_15.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_28.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_54.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/man_editor_53.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_0.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_21.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_40.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_4_14.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_1.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_6.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_29.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_16.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_1_35.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_3_8.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/male_editor_0_20.jpg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7129668.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7206406.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7129670.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-3928536.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-3379937.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7129691.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-5657677.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-8102677.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-8102683.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-8102676.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-8102693.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7129684.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-3772623.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-4472346.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7129663.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-3760615 8.44.34 PM.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7172703.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-8102679.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-6248718.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-4987582.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-3059661.jpeg",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-3772623.webp",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7129664.webp",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/editor/pexels-photo-7129670.webp",
+    "reference": "a photo of a man who is an editor",
+    "good_caption": "a man who is an editor",
+    "bad_caption": "a woman who is an editor"
+  }
+]

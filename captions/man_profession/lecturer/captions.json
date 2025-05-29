@@ -1,0 +1,956 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_52.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_45.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_55.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_42.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_30.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_25.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_33.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_60.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_4.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_19.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_31.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_3.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_27.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_20.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_2.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_8.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_25.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_14.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_6.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_1.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_22.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_26.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_31.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_34.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_17.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_33.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_10.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_15.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_41.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_28.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_46.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_12.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_2_20.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_11.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_32.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_2_15.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_36.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_24.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_23.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_31.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_54.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_43.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_38.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_44.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_29.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_18.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_5.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_32.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_30.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_16.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_12.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_0.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_23.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_28.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_24.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_15.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_7.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_21.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_17.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_6.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_43.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_1.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_44.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_38.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_33.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_36.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_15.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_31.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_19.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_23.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_27.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_16.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_4.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_2_32.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_3.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_20.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_25.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_6.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_19.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_17.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_12.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_31.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_15.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_2_24.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_4.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_25.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_32.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_3.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_50.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_29.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_57.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_40.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_23.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_28.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_6.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_24.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_2_33.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_10.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_4_2.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_21.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_8.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_2_34.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_30.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_3_13.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_22.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_37.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_39.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_42.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_41.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_51.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_28.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_46.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_23.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_34.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_26.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_58.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_21.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_33.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_1_14.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_2_25.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/male_lecturer_0_7.jpg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325951.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325949.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325955.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_10.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6326370.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6237963.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325985.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-12300626.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325940.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-5553974.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-4865544.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325958.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-4854674.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-10498800.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-8617757.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325988.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-10498797.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-8197553.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325954.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-8617812.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6326377.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-4865515.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6326382.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-1709003.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6325952.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-7942643.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-8197536.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6326070.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-8197526.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-6326383.jpeg",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_47.png",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/man_lecturer_56.png",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-3760089.webp",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-5212339.webp",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-3184328.webp",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-2608517.webp",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-5212338.webp",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/lecturer/pexels-photo-3184317.webp",
+    "reference": "a photo of a man who is a lecturer",
+    "good_caption": "a man who is a lecturer",
+    "bad_caption": "a woman who is a lecturer"
+  }
+]

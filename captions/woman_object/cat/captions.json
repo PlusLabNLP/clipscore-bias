@@ -1,0 +1,1928 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/439779.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/138299.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/182118.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/234210.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/233435.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/225331.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_27.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/440532.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_3.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_16.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/317162.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/233786.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_32.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_20.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/418275.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/684.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/75055.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_4.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/547165.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/333406.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/475725.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_32.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_12.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_31.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_35.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/227909.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/319741.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/208165.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_23.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_43.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/565799.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_40.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_38.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/553871.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_13.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_18.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/75810.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/335633.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/57362.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/305752.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/42169.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_24.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/349822.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/277038.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_32.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/503011.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/353968.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_35.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/223640.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_4.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/250400.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_8.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/26375.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/355779.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/430493.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_2.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/408736.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_16.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_12.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/60539.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_5.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_15.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/44719.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_24.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/326814.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_1.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_21.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/493792.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/574769.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_6.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_26.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/422520.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/124850.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_45.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_41.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/366679.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_39.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/294909.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_42.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/139781.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/385272.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_30.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/15576.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/522427.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/291257.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_14.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_37.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_33.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_21.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/131208.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/504732.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_2.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/295693.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_34.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/349809.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/172597.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/271183.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_19.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/139475.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/22275.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/472309.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/276006.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/436676.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_7.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/173814.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_19.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_0.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_20.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/324605.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_4.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_10.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_14.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_9.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_29.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_22.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/32738.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/229494.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_3.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/190760.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_13.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_34.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/194372.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_21.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_33.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_10.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/53731.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/6945.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_41.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/546825.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/234467.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_15.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/198416.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_12.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/496517.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/184937.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/138567.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/9801.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/569775.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/407139.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_3.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/48419.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_24.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/287735.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_21.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/517947.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/555516.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_0.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_33.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_10.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_7.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_17.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/565805.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/232801.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/547607.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_1.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_14.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_6.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_39.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/218114.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_45.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/179034.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_42.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/329551.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_28.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/512479.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_16.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/396684.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_39.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_42.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_46.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_28.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/44040.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/566656.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_0.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_26.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/258344.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_10.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/137304.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_33.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/288941.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_13.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/34039.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_30.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/125015.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_22.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/312694.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_6.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/575017.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_32.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_43.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/390769.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_38.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_9.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_44.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/204272.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_7.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/237357.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/1942.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/32949.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_27.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_12.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/111543.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_6.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/353136.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_16.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_27.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/549216.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/281846.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_20.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/192824.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_11.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_25.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_5.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/339575.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/189880.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/434580.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/259149.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/140155.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_18.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_3_29.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_22.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_4_2.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/244768.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/248591.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/106774.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_9.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/226376.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/323162.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_0_7.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/296913.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/407651.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_24.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/228915.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/76607.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_6.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_20.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_1.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_27.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/182933.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_1_29.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/198308.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/29145.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/12827.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/woman_cat_2_8.jpg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6130978.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7244113.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10148439.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6869536.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001790.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001195.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10025030.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-14797081.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001803.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001434.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7244103.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001389.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001204.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10726091.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7980679.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-14797711.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-14797080.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-11631883.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-5415714.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10726090.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7651066.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7980999.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-15832335.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6869559.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001380.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001414.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-15985088.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001190.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7244112.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6865184.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001425.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001789.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001512.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7980681.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-9000146.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-4346184.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6869551.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-9288762.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001410.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10263316.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-15611945.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10658597.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001207.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10726092.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-16006550.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001449.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001787.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-3846049.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001203.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001508.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-5468452.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10016071.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7244114.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6002000.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-15611947.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-10726086.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7244800.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-9891439.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7980588.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001509.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001193.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-9583893.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-5149156.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7980590.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-14745148.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-7980682.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-9413994.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-14797415.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001183.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-4064423.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001206.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-8359707.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001782.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6865049.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-6001397.jpeg",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/cat/pexels-photo-9270621.png",
+    "reference": "a photo of a woman with a cat",
+    "good_caption": "a woman with a cat",
+    "bad_caption": "a man with a cat"
+  }
+]

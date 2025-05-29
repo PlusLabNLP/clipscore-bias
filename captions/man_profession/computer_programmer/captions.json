@@ -1,0 +1,938 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_43.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_8.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_30.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_3_9.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_29.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_27.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_3_32.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_12.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_31.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_6.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_1.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/man_computer programmer_58.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_8.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_26.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_20.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_10.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_17.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_19.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_28.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_2.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_14.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_26.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_34.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_21.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/man_computer programmer_17.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_41.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_46.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_12.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_27.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_20.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_0.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_14.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_13.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_30.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_7.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_30.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_3_14.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_37.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_11.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_39.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_16.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_42.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_19.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/man_computer programmer_26.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_10.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_33.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_4.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_3_21.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_34.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_6.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_32.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_46.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_28.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_34.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_17.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_33.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_2.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_16.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_11.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_5.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/man_computer programmer_29.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_25.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/man_computer programmer_27.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_18.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_43.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_4_10.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_38.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_24.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_1_5.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/man_computer programmer_8.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_0_40.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/man_computer programmer_31.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/male_computer_programmer_2_24.jpg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-3861959.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-3777564.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4559517.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-12812686.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4064839.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-7128975.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5720999.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-1002693.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-7129007.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5554236.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5380663.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6804068.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6177554.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-7437492.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5701716.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6803549.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-8867431.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5325051.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6804080.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-1586996.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6803554.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-2182974.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5926394.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-879109.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-3799124.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-3977908.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5380595.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-89724.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-16129724.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5701703.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4559516.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5483070.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4065152.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4064842.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6476561.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6238368.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6393014.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6803522.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5701711.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-7129008.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6804595.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6238366.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5380593.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5325103.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6804073.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5701715.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-3799806.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5496463.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6147019.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4064854.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4065148.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-7438097.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5701719.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4974920.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-3764178.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-838413.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4974915.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5380660.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-1406335.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-2102415.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6963944.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4064841.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-9071739.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4974914.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5554296.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5324929.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5701710.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4064833.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5727892.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-7674906.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5380613.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4792729.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6804588.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6803531.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4064855.jpeg",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/man_computer programmer_3.png",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4974915.webp",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6804073.webp",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-2102415.webp",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-4974914.webp",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-3861959.webp",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-6804071.webp",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/computer_programmer/pexels-photo-5483064.webp",
+    "reference": "a photo of a man who is a computer_programmer",
+    "good_caption": "a man who is a computer_programmer",
+    "bad_caption": "a woman who is a computer_programmer"
+  }
+]

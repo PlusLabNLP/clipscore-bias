@@ -1,0 +1,878 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_32.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_2_23.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_16.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_9.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_11.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_7.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_0.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_18.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/woman_architect_18.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_15.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_1_36.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_23.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_0.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_33.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_13.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_14.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_25.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_2_0.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_1_45.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_1_42.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_1.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_6.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_21.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/woman_architect_22.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_10.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_2_33.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_17.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_17.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_1_33.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_1_41.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_19.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_2_3.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_1_46.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_28.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_5.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_2.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_14.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_13.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_2_21.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_2_26.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_2_28.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_39.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_30.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_37.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_12.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_15.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_4.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_29.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_1_40.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_20.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_11.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_3_16.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_27.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_36.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_31.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_43.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_1_3.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/female_architect_0_44.jpg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5915151.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6567803.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292259.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961027.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5583259.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6632542.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6615037.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292227.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4491459.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-9512012.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5582872.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292233.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961064.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4977408.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961299.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292206.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-3862371.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-9399868.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4491460.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5641882.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961002.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5583261.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292232.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961130.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8960944.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5641876.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961338.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5915267.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961007.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4977345.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6322357.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6614828.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5583254.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292236.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961003.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5582592.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5641872.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4491475.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4959785.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6615280.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292196.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961109.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5921659.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4959781.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4977349.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292226.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961067.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292230.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-7937664.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292201.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292228.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-7415119.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5915232.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292205.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292234.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5915152.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5915226.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6615107.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961126.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6632541.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6322371.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5921419.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6632544.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6615029.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292239.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6568687.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292243.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961127.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-7937366.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6615225.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292225.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292231.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292200.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6566810.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292229.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-4977346.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5292204.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6592547.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6614759.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5582589.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-8961029.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6567815.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6282603.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6567796.jpeg",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-6566819.webp",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5583615.webp",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-7937368.webp",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_profession/architect/pexels-photo-5915137.webp",
+    "reference": "a photo of a woman who is an architect",
+    "good_caption": "a woman who is an architect",
+    "bad_caption": "a man who is an architect"
+  }
+]

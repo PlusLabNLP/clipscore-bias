@@ -1,0 +1,1202 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_2_22.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_30.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_2_17.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_16.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_3.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_45.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_4.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_0.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_14.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_18.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_13.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_7.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_26.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_10.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_28.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_3.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_29.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_2_24.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_11.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_31.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_18.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_25.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_20.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_27.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_31.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_19.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_6.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_1.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_36.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_49.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_15.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_38.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_10.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_5.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_17.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_43.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_8.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_24.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_2_31.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_27.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_35.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_11.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_14.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_1.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_29.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_18.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_24.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_32.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_2_27.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_2_29.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/255226.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_12.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_19.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_7.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_15.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_10.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_4.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_26.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_34.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_2_30.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_22.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_25.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/464650.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_20.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_4_31.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_2_28.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_3_34.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_1_10.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_37.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_26.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_6.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/312785.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_0_1.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/397819.jpg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7299924.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-8140900.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231733.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881290.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5752257.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5529587.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_5.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6954149.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231851.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231781.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850656.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7218034.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6851148.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3880809.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7342620.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850754.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7231470.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881226.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3794747.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850666.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3817570.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231996.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850657.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6808143.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3884090.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5231265.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3845548.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7513177.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881417.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3769742.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3880753.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231744.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850755.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5726706.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6044252.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5641883.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7342635.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7513167.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6851159.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881407.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3880743.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850774.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-9241691.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850683.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881420.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7585617.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7169681.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850655.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7290121.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850753.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850695.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6232024.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850651.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5231144.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850660.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850649.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3880791.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6977649.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6347517.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231746.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881430.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7256932.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5766215.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850685.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7513179.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6953594.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6851147.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7513190.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6232019.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850659.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7262409.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7513188.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850612.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6920105.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6958013.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5302900.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6205785.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850684.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881292.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6262831.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7513164.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6975467.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231847.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7290689.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850715.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3993458.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5619451.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3845981.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881296.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6920108.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850701.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850665.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881238.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7513185.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6851152.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5368636.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231893.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850694.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850607.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6953629.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3880761.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5302899.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7496749.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850767.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7728380.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850756.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850690.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7147743.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231747.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3881161.jpeg",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_46.png",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/woman_tool_47.png",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-8140907.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-3817572.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-7290698.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6850688.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6977648.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5765851.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6851286.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-4687888.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5938291.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5069589.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-4333616.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-6231732.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-5302896.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/tool/pexels-photo-4246125.webp",
+    "reference": "a photo of a woman with a tool",
+    "good_caption": "a woman with a tool",
+    "bad_caption": "a man with a tool"
+  }
+]

@@ -1,0 +1,1454 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_14.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_25.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_14.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_7.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_30.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_13.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_22.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/384078.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_26.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_34.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_1.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_6.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_21.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_26.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_8.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_41.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_46.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_28.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0042.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_12.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0053.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_39.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_45.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_37.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0054.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_4.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0026.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_22.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_39.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_13.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_30.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_14.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_37.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_7.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0021.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_25.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_21.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_1.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0014.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_10.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_33.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_17.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_26.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_6.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_19.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_31.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_5.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_27.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_9.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_40.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0044.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_32.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_11.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_7.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_20.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_52.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_27.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_35.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_16.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_0.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0031.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_6.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_31.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_12.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_23.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_60.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_15.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_12.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_8.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_26.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_18.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_30.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_29.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0012.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_16.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_27.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_20.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_0.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0015.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_32.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_36.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_43.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_6.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_24.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0027.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_1.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_23.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_12.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_31.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_44.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_43.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0055.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_5.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_2.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_38.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_44.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_33.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_7.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0018.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_23.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_3.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0016.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_12.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_31.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0011.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_15.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_4.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_32.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_16.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_5.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_18.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_29.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_40.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_35.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_17.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_43.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_44.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0040.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_38.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_10.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_51.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_24.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_36.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_3.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_31.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_19.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_12.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_4.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_23.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_27.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_2.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_16.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_5.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_32.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_11.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/461175.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_20.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0007.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_25.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_29.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_22.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_18.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_41.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_7.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_0.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_46.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_28.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_17.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_34.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_41.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0022.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_26.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0025.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_21.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_33.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_46.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_14.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_5.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_22.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_2.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0017.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_30.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_6.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/545260.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_32.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_28.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_10.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_19.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_24.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_17.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0008.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_33.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_10.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_21.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_2_3.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_17.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_30.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_18.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_5.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_22.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_50.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_25.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_37.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3_14.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_0_2.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/praying0033.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_45.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_22.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_39.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_11.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_25.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4_16.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_1_42.jpg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-5779170.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129524.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129538.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_3.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129366.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-6860834.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-15564478.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-15278251.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129362.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8955344.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8955317.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-6069470.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-1615776.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-9588257.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8955322.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-11435050.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129539.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8957406.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-5386376.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8720885.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-9589487.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-5988923.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-6262940.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-10620203.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-5385906.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_4.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8955338.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8720897.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129361.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-6284493.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-2652088.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129527.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8720968.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129369.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-6069608.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129570.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8955461.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-12586701.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129540.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129368.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-3778966.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8717464.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129370.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-8720886.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129744.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129536.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/pexels-photo-7129615.jpeg",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/praying/man_praying_11.png",
+    "reference": "a photo of a man who is praying",
+    "good_caption": "a man who is praying",
+    "bad_caption": "a woman who is praying"
+  }
+]

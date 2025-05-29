@@ -1,0 +1,1478 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_11.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_2.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_32.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0010.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_20.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_48.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_27.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_16.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_5.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_18.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/573759.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_25.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_44.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_10.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_38.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_17.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_12.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_3.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_31.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_23.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/470513.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0022.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_24.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0025.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/390841.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_4.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_15.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0034.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_8.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_17.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_27.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_2.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_5.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_11.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_40.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_1.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_29.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_34.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_50.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_33.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0008.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_15.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0006.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_46.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_23.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_31.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0024.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_14.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_37.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/541536.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/101252.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_13.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_18.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_30.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0023.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_42.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_39.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_24.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_28.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_19.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/41199.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0018.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/95034.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_49.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_4.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0016.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_10.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/467540.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_3.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0011.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_21.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/113294.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_5.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_13.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/470073.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_25.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/450608.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_56.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_35.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_19.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_28.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0040.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_41.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_0.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_21.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_4.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0032.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_33.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_10.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_9.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_34.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_17.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_26.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_3.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_17.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0004.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0003.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_21.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_33.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_52.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/456792.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_19.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_28.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_42.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_3.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0038.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_39.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_45.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_14.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_25.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/113736.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_7.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_22.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0031.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_30.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_13.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_10.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_33.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_21.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_26.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0027.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/529541.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_17.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_6.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_34.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_28.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_46.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0029.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_8.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_19.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_15.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_41.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_20.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_9.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/319830.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_30.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_0.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0012.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/211948.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_22.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_25.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_14.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0015.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0030.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0037.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_15.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_24.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_5.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/218874.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_44.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_8.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_43.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_30.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_18.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_54.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_29.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_9.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0002.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_20.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_32.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_11.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_35.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_16.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/526070.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0005.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/296479.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_27.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_0.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_24.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_15.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_6.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_12.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_31.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_2_1.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0013.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_23.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_28.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_21.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_39.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_6.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/424385.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_40.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_29.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0028.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_4_13.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_18.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_9.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_27.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0026.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_3_16.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/307825.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_35.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/261414.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_0.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_1_32.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/266418.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_0_20.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/fishing0021.jpg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-9498579.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-9067284.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15531946.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15564289.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-2554480.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-14728650.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15422183.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-141867.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-9501482.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-14687245.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-9494133.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-10974623.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-14013557.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15225962.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/man_fishing_5.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-11400928.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-14566335.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-192454.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-14982792.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-11284047.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15532535.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15550307.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-11317120.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-16578774.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15390504.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15550113.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15531931.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15420487.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15467221.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15379689.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-3015471.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-11317119.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-3023742.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-3728398.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-14082811.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-9288963.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-14749543.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-8804418.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15557942.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-8804408.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-8987530.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15571358.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-10899962.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-9415392.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-8933030.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/fishing/pexels-photo-15531950.jpeg",
+    "reference": "a photo of a man who is fishing",
+    "good_caption": "a man who is fishing",
+    "bad_caption": "a woman who is fishing"
+  }
+]

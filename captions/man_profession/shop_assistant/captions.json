@@ -1,0 +1,770 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_25.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_22.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_4_11.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/man_shop assistant_43.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/man_shop assistant_31.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_10.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_4_8.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_3_30.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_4_6.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_33.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_1_3.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_5.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_2.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_4_25.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_4_10.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_3_12.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_3_15.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_32.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_1_20.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_1_1.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_38.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_4_3.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_1_11.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_6.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_4_26.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_8.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/man_shop assistant_46.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_27.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_20.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_3_33.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_1_10.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_2_21.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_1_19.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_42.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_39.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_1_7.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/man_shop assistant_11.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_2_6.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_2_1.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_1_46.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_4_20.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_9.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/male_shop_assistant_0_7.jpg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7289716.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6865912.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6050414.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264934.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-12245313.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-11610703.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-11513689.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6309862.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-3735168.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6062180.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-3562316.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-10583686.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264930.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264946.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-8422720.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-12172031.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-9377926.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264909.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6375721.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-13157590.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6062224.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6050431.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6888766.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-375896.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6116878.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-4586467.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7289736.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7968885.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264914.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-10166067.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-12385440.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-12319250.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6865922.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-2076932.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7968895.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264935.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6161659.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264929.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7289713.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6062223.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264945.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6888761.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-16569318.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264912.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-8422716.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6140080.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5699100.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-3037215.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6116877.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-796587.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-4543929.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6310160.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7289711.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264933.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5756674.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6865921.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7129703.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6116876.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7289725.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6127624.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6215312.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-2766333.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-1813346.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-4021766.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7289710.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-3562325.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7679753.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-11997072.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264932.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7289708.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-12402197.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7223505.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264944.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5306242.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264917.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-9964655.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6062226.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-6229520.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-8422717.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264958.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5264913.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-12246956.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-5699013.jpeg",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7679884.webp",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/shop_assistant/pexels-photo-7679732.webp",
+    "reference": "a photo of a man who is a shop_assistant",
+    "good_caption": "a man who is a shop_assistant",
+    "bad_caption": "a woman who is a shop_assistant"
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_2.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_32.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_5.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_35.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_27.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_29.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_40.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_33.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_40.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_31.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_3.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_49.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_24.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_24.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_27.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_2.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_16.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_32.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_11.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_20.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_5.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/194605.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/99964.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_18.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_56.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_0.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0019.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_43.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_3.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_24.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_9.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_36.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_15.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_31.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_19.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_12.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_23.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_14.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0032.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_5.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_25.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_22.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_33.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_30.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_46.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0009.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_41.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_19.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_28.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_46.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_4.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_17.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_26.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0007.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_21.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_10.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_3.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_30.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_13.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_5.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/65456.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_22.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_25.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_5.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_8.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0011.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_45.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_39.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_11.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_1.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_16.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_28.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_19.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_21.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_22.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_34.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_26.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_1.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_34.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_17.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0012.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_33.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0015.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_21.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_2.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_15.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_46.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/119226.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_5.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_53.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_20.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_25.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_0.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_13.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0027.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_21.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_22.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_21.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_33.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_6.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0031.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_34.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_26.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_8.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_39.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_9.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_39.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_45.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0004.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_0.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_13.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_7.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_37.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_25.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_23.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_20.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_24.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_1.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_15.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_21.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_52.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_8.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_29.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_4.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_13.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_4_3.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_9.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_40.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0014.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_20.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_7.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_27.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_0.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_35.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_16.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_15.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_6.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0002.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_24.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_23.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_12.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_8.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_38.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_0_44.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_43.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_29.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_1_16.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_7.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/jogging0030.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_27.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_2_20.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_31.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/man_jogging_3_32.jpg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-3038195.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8498119.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-4803901.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8638043.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-4719926.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-4909519.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5036890.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8498120.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5037303.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5036861.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-9948003.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/free-photo-of-man-jogging-in-a-park.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-4719936.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8497682.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7880204.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-12952392.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-6852314.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-4016898.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-6235564.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8637969.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-4803921.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-1779207.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/runners-silhouettes-athletes-fitness-39308.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-4909508.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5696892.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7935811.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8381752.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-3096550.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-4719931.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/free-photo-of-man-posing-on-running-event.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7880265.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-6002838.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7632045.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5036883.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7652094.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7869645.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-3799447.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-6128504.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8381760.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-6775302.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-9112578.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5039662.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7869669.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-103520.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8497684.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7187826.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7869520.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5999593.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8637976.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7869648.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-7870255.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-8381745.jpeg",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5038861.webp",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/jogging/pexels-photo-5037389.webp",
+    "reference": "a photo of a man who is jogging",
+    "good_caption": "a man who is jogging",
+    "bad_caption": "a woman who is jogging"
+  }
+]

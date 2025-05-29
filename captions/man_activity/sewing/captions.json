@@ -1,0 +1,872 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_21.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_8.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_10.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_1.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_6.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_39.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_3_0.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_42.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_30.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_13.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_3_9.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_37.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_14.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_25.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_8.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_26.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_3_10.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_33.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/sewing0034.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_28.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/sewing0041.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_0.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_36.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_15.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/sewing0024.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_12.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_3_8.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_43.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_38.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_3_1.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_44.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/sewing0018.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_0.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_20.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_9.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/579215.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_4.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_6.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_1.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_7.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_29.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/sewing0040.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_27.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_7.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_11.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_9.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_5.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_3.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_24.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_23.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_16.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_27.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_3_2.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/375004.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_15.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_3_13.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_30.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_22.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_29.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_25.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_5.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_2.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_8.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_4.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_19.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_6.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_25.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_22.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_13.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_2.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_41.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_3_4.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_19.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_46.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_1_28.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_0_34.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_2_17.jpg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-6951762.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830692.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11597971.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-13516984.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-14839566.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-6766288.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-6766248.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830667.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-7776123.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-12232026.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11738728.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-7561948.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-7776106.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830686.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-12572225.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-9850420.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830687.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-6317981.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-6447977.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-12672225.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/free-photo-of-a-man-sewing.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11526247.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-9985936.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11597970.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-7776117.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-9860573.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/man_sewing_5.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5894255.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-9654587.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830699.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11597953.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5487069.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-7776119.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-6765525.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11645428.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11423013.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-9850078.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5894276.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-13159722.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11254442.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-8819576.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-12659979.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-12732561.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-14094862.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830660.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-12672176.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-7776109.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830700.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-7776120.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-4173273.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-13132892.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830690.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-3814539.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-9985931.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5894140.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5894220.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11885820.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-5830658.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-3940102.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11597963.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11597952.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-7776118.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11423012.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-3212880.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11597967.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-11886052.jpeg",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/sewing/pexels-photo-13159722.webp",
+    "reference": "a photo of a man who is sewing",
+    "good_caption": "a man who is sewing",
+    "bad_caption": "a woman who is sewing"
+  }
+]

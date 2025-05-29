@@ -1,0 +1,650 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_23.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_28.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_24.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/man_puppeteer_11.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_21.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_17.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_26.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_8.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_18.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_14.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_39.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_6.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_16.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/man_puppeteer_23.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_46.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_19.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_17.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_10.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_25.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_30.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_22.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_1.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_6.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_7.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_17.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_10.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_0.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_15.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_31.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_19.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_27.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_20.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_32.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_6.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_29.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_34.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_31.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_23.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_24.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/man_puppeteer_1.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_9.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_16.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_35.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/man_puppeteer_34.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_1.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_3.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_9.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_29.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_4.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_30.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_32.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_7.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_20.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_24.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_15.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/man_puppeteer_45.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_36.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_12.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_23.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_43.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_13.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_18.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_29.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_4.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_14.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_32.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_11.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_35.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_27.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_23.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_28.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_31.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_24.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_21.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_45.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_0_42.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_13.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/man_puppeteer_38.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_25.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_14.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_6.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_21.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_26.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_5.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_31.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_2.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_8.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_20.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/man_puppeteer_15.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_25.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_29.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_22.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_30.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_34.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_17.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_1_33.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_10.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_5.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_15.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_3_19.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_4_12.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/male_puppeteer_2_2.jpg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/pexels-photo-8808357.jpeg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/pexels-photo-6692093.jpeg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/pexels-photo-4815394.jpeg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/pexels-photo-6691849.jpeg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/pexels-photo-2927504.jpeg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/puppeteer/pexels-photo-6691868.jpeg",
+    "reference": "a photo of a man who is a puppeteer",
+    "good_caption": "a man who is a puppeteer",
+    "bad_caption": "a woman who is a puppeteer"
+  }
+]

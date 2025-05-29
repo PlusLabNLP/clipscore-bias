@@ -1,0 +1,752 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_30.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_4.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_20.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_32.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_3.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_24.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_31.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_12.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_26.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_21.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_1.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_30.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_13.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_18.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_40.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_37.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_4.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_20.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_35.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_2.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_42.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_12.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_31.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_24.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_26.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_39.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_20.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_27.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_30.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_4.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_14.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_21.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_10.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_17.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_3.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_4.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_29.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_2.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_17.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_34.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_38.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_5.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_21.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_41.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_46.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_28.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_19.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_28.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_19.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_10.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_7.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_0.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_34.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_30.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_37.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_45.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_32.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_11.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_39.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_42.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_35.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_8.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_41.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_24.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_9.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_19.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_28.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_7.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_26.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_14.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_6.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_22.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_1.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_16.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_43.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_34.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_44.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_10.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_38.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_1.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_36.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_46.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_7.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_27.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_16.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_11.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_32.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_6.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_25.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_0_18.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_33.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_4_34.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_19.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_31.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_15.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_24.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/man_juggler_57.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_1.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_2_11.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_1_27.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/male_juggler_3_8.jpg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-13025127.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-8895403.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/free-photo-of-juggler-performing-with-fire.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-14285773.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-11629582.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/fire-eaters-artist-juggler-fire-39075.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-12454588.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-13174849.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-14222087.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-13396752.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-8895404.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-8574813.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-13872143.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-8895400.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-8895564.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-8895405.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-3071456.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-8895401.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-1262753.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-8895399.jpeg",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-1262753.webp",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-12862049.webp",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-13010412.webp",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/juggler/pexels-photo-11629564.webp",
+    "reference": "a photo of a man who is a juggler",
+    "good_caption": "a man who is a juggler",
+    "bad_caption": "a woman who is a juggler"
+  }
+]

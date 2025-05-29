@@ -1,0 +1,800 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_26.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_17.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_34.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_7.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_10.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_33.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0028.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_15.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0026.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_41.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_9.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_39.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0013.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_25.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_14.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_13.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_29.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_22.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_21.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_21.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_31.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_3.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_5.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_39.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0030.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_37.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_14.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_12.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_31.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_21.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_13.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_14.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0027.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_40.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0029.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_20.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_35.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_18.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_20.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_32.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_9.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_7.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_18.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_29.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_18.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_56.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_31.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_23.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_16.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_49.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_32.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0018.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_20.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_7.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_25.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_0.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_29.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_18.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_6.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_43.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_10.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_38.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_24.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_19.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_2.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_23.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_25.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0008.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_30.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_22.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/530823.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_0.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_57.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0001.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_1.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0034.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_6.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_19.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_46.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_8.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2_17.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_21.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_3.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_30.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_5.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_22.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_2.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_14.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_37.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0022.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_39.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_3_7.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_23.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_1_6.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_4_24.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/sweeping0019.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_0_17.jpg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-10047780.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-7544242.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-11757645.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-8890967.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-5591857.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-7544239.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-5591853.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-14037654.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-14224473.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-14528123.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-7883178.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-10557496.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-5591583.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-14487000.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-13731025.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-4868315.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-14428607.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-4868311.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-11164161.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-5331118.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-9462143.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-4868319.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-14529367.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-10557501.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-7544237.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-5591859.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-6196682.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_48.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-13806036.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-12429905.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-10557499.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-5591579.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-11472685.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-7883177.jpeg",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/pexels-photo-5591962.webp",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/sweeping/woman_sweeping_6.bmp",
+    "reference": "a photo of a woman who is sweeping",
+    "good_caption": "a woman who is sweeping",
+    "bad_caption": "a man who is sweeping"
+  }
+]

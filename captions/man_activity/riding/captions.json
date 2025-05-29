@@ -1,0 +1,3812 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0099.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_12.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0207.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0110.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0455.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0034.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_28.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0484.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0323.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0033.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0324.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0483.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0389.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0358.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_15.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0200.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0117.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_21.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0272.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0165.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0420.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0387.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0041.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0090.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0119.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0380.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0427.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0046.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0097.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0351.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0209.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0275.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0503.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_0.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0162.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0364.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0073.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0412.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0318.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_13.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0157.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0291.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0536.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0240.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_14.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0008.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0469.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0531.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0296.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0247.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0181.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_1.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0074.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0415.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0311.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0006.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0467.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0298.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0249.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0122.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0543.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0235.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_20.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_8.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0125.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0544.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0232.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0316.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_16.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0001.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0159.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0538.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0223.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0134.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0555.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0199.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0148.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0529.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_24.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0010.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0471.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0307.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0289.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0476.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0224.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0133.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0552.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0256.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0190.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0141.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0287.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0019.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0478.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0065.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_7.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0372.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_38.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0062.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_0.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0403.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0375.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0251.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0197.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_44.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0146.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0280.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0309.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0086.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0340.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0436.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0391.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0057.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0512.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0173.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0264.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0174.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_1.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_39.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_29.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0108.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0081.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0347.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0396.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0431.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0050.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0492.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0335.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0443.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0211.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0349.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0398.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0560.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0101.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_20.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0216.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0088.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0438.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0059.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_8.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0332.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0495.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0444.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0025.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_9.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0124.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0545.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0233.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0317.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_17.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_15.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_34.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0158.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0539.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0189.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0310.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_10.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_33.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0466.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0299.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0248.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0123.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0542.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0234.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_21.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0009.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0468.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0151.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0297.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0530.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0246.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0180.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_0.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0362.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0075.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_41.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0414.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_7.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0365.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_46.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0072.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0413.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_28.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_12.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0156.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0537.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0290.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0187.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0426.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0381.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0096.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0350.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0208.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0274.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0502.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0163.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_1.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_20.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0273.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0505.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0164.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0386.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0421.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0040.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0091.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0357.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0118.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0453.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0032.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0482.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0325.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_8.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0388.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0359.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0116.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0049.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0098.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_13.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0206.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_30.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0454.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0035.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_22.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_29.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0322.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0485.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0561.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0100.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0217.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0089.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0439.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0058.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0494.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0333.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0024.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0334.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0493.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0023.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_17.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_26.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0107.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0210.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0348.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0399.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0514.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0175.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0262.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_31.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0109.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_28.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0080.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0346.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0430.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0397.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0219.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0087.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0341.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0390.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0437.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0056.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0513.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_39.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0063.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0374.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0250.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0196.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_45.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0147.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0281.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0526.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0257.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_42.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0191.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0140.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0521.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0286.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0018.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0479.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_6.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0064.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0405.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0373.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0259.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0288.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0016.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0477.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0301.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0225.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0553.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0222.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_37.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0135.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_6.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0198.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0528.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0306.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_5.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0178.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0337.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0020.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0104.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_25.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0213.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0103.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_22.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0562.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0214.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0268.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0330.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_30.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0027.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_13.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0446.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0342.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0084.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0393.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0434.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0171.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0510.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0029.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0176.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0517.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_3.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0261.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0339.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0345.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0083.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0052.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0433.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0394.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0192.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_41.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0254.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0285.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0143.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0406.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0067.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0370.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0559.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_19.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0138.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0401.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0377.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0195.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0253.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0282.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0525.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0144.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_28.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_8.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_34.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0221.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0557.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0136.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_17.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0379.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_5.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0012.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_26.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0474.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0015.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0226.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0550.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0131.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_10.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0408.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_18.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0313.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0004.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0419.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0078.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0541.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0120.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0237.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0368.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0546.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0127.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0230.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0314.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0462.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_37.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0366.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_4.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0410.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0071.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_45.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0548.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0129.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_11.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_39.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0534.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0293.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0155.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0184.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0294.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0533.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0152.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0183.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0245.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0361.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0417.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_42.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0076.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0239.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0328.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_23.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0270.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0167.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0506.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0043.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0385.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0354.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0092.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_19.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0044.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0425.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0382.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0353.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0095.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0488.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_2.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0205.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_10.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_33.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0112.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0036.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0457.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0321.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_21.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0279.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0031.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0481.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0326.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_26.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0169.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0508.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_17.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0115.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0475.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0014.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_0.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0303.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0227.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0551.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0130.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0409.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0068.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0220.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0556.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_16.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0137.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0472.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0013.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_27.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0558.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0139.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_18.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0400.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0061.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0376.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0194.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0252.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0524.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0283.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0145.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_29.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_9.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0193.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0255.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0284.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0523.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0142.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0229.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0407.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_4.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0066.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0371.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0177.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0516.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0260.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0338.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0344.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0082.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0053.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0395.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0432.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0343.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0085.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0435.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0392.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0511.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0267.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0498.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0028.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_23.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0102.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0563.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0215.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0331.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0496.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_31.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0026.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_12.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0447.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0179.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0518.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0491.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0336.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0021.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0440.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0105.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0212.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0030.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0451.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0480.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_27.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0168.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0509.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0203.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0114.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0204.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_11.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0113.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_32.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0037.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0456.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0487.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0278.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0045.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0383.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0424.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_50.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0094.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0039.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0489.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_25.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0276.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0161.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0500.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0329.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_22.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_29.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0166.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_2_4.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0507.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0423.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0384.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0355.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0093.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0532.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0295.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0153.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0182.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0244.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_2.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0360.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0416.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_43.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0077.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0238.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0411.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0070.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_44.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0549.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0128.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_10.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_38.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0292.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0535.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0154.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0185.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0243.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0369.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0547.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0126.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_24.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_3_15.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0315.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0463.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_4_19.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0312.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0464.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_1_31.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0079.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0540.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_0_23.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/riding0236.jpg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5560330.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5232903.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-1069712.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5445292.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5445011.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-4413304.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-1069723.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-16759574.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5538204.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5792910.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_58.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5464974.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5195501.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-2884573.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-2820889.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-1069707.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-6110161.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-15577304.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5464969.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-15571879.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-2986409.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5445297.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-2896063.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5807676.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5745603.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-15577293.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5794247.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-1069730.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-15583405.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-7946132.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-1715183.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5232904.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5445012.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-15571882.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5792892.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-7946136.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-4413302.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5803139.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-2820886.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5192970.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-1806771.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5103250.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-949549.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-2385900.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-15578932.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-5543375.jpeg",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/pexels-photo-2871458.png",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/riding/man_riding_54.png",
+    "reference": "a photo of a man who is riding",
+    "good_caption": "a man who is riding",
+    "bad_caption": "a woman who is riding"
+  }
+]

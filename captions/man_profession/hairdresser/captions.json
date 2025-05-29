@@ -1,0 +1,860 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_25.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_14.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_13.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_22.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_3.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_24.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_23.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_19.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_26.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_17.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_34.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_59.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_33.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_2.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_21.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_34.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_3.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_25.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_32.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_46.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_28.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_6.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_46.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_1.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_41.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_5.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_2.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_20.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_16.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_29.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_18.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_5.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_44.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_10.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_12.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_19.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_23.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_24.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_15.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_36.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_3.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_9.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_4.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_11.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_0.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_34.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_12.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_5.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_0.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_24.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_3.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_30.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_44.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_38.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_32.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_11.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_31.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_1.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_24.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_15.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_12.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_31.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_0.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_28.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_1.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_26.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_13.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_35.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_20.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_34.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_26.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/man_hairdresser_39.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_31.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_19.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_28.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_2.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_42.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_8.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_39.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_5.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_1.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_22.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_6.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_2_13.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_10.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_21.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_26.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_17.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_12.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_19.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_1_41.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_20.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_27.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_13.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_4_29.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_3_25.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/male_hairdresser_0_14.jpg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-2076932.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7697645.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7697645 (1).jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/free-photo-of-man-sitting-in-a-barbershop.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-1813272.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7697232.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7440134.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-6888688.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7440065.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-897256.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-12372467.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-897263.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7518755.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7755498.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-668196.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-1860567.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-11169551.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-2775272.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-3105409.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-4952625.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-2318055.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7440133.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-3998398.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-2076931.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7518757.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7697389.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7440127.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-1813346.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-4625627.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-3037239.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-3037215.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-2076930.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/free-photo-of-man-at-hairdressers.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-1804638.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-8468132.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-1453005.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-2775269.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-3998428.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7755497.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-3998430.jpeg",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-331989.webp",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-696285.webp",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-7518707.webp",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-3998422.webp",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-696287.webp",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/hairdresser/pexels-photo-3998427.webp",
+    "reference": "a photo of a man who is a hairdresser",
+    "good_caption": "a man who is a hairdresser",
+    "bad_caption": "a woman who is a hairdresser"
+  }
+]

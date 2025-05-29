@@ -1,0 +1,434 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_4_7.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/man_trucker_31.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/man_trucker_29.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_18.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_38.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/man_trucker_12.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_43.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_3_12.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_3_15.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_36.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_2_25.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_4.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_4_1.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_46.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_41.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_21.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_34.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_3_5.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_37.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_22.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_42.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_2_2.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_2_5.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_21.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_3_17.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_41.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_2_6.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_3_22.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_7.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_2_26.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_10.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/man_trucker_33.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_9.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_42.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_4_2.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_45.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_2_14.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_25.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_22.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_3_1.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_2_13.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_3_24.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_15.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_12.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/man_trucker_11.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_27.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_0_20.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_3_0.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_2_15.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_24.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_4_3.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_18.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_8.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/man_trucker_8.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_1.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_11.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_16.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/male_trucker_1_6.jpg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-5025491.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-6869061.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-7539633.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-7541989.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-9747447.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-5025490.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-7541359.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-11114134.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-2793159.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-7019612.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-1813468.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-3325651.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-7457016.jpeg",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/trucker/pexels-photo-1070571.webp",
+    "reference": "a photo of a man who is a trucker",
+    "good_caption": "a man who is a trucker",
+    "bad_caption": "a woman who is a trucker"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_2.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_32.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_4_1.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_40.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_17.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_3.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_15.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_31.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_12.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_11.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_5.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_38.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_48.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_12.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_4_19.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_8.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_15.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_13.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_2.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_14.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/36459.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_33.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_56.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_21.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_34.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_28.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_17.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_21.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_33.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_28.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_41.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_9.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_30.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_0.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_7.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_60.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_17.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_33.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_6.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_0.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_37.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_52.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_55.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_7.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_6.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_12.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_31.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_1.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_8.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_40.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_30.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_29.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_7.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_42.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_0_27.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_54.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_3_1.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_24.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_2_29.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_7.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_0.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_1_16.jpg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/pexels-photo-7518966.jpeg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/woman_bacon_10.jpeg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/pexels-photo-6529880.jpeg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/pexels-photo-6529822.jpeg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/pexels-photo-6529825.jpeg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/pexels-photo-6529829.jpeg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/bacon/pexels-photo-4781442.jpeg",
+    "reference": "a photo of a woman with a bacon",
+    "good_caption": "a woman with a bacon",
+    "bad_caption": "a man with a bacon"
+  }
+]

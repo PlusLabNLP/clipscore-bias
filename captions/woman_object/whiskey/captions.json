@@ -1,0 +1,950 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_12.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_23.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_24.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_15.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_21.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_1.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_29.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_18.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_54.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_14.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_0.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_32.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_16.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_35.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_36.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_5.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_23.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_31.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_12.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_2.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_43.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_6.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_38.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_44.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_7.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_30.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_29.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_0.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_16.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_27.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_20.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_32.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_11.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_17.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_34.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_33.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_21.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_12.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_55.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_19.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_20.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_7.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_25.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_14.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_9.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_13.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_30.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_22.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_21.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_8.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_33.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_34.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_28.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_6.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_39.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_42.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_7.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_43.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_9.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_30.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_3.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_14.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_25.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_25.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_22.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_5.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_32.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_4.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_19.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_9.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_46.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_17.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_7.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_26.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_49.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_21.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_10.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_0.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_13.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_58.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_14.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_37.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_11.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_56.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_16.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_3.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_33.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_21.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_26.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_34.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_20.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_32.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_11.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_1.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_33.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_35.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_16.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_6.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_27.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_29.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_2.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_46.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_5.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_4.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_12.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_15.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_24.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_27.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_16.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_11.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_20.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_2_2.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_25.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_18.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_17.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_3.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_43.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_44.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_4_10.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_24.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_59.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1_36.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_3_12.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_0_23.jpg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-13015708.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-4279096.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-936590.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/free-photo-of-a-bartender-pouring-liquor-into-a-glass.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-913183.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-6962258.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-10318052.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-7322157.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-6961911.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-14024316.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-7128411.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-936571.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/free-photo-of-young-woman-in-a-dress-with-a-floral-pattern-and-a-hat-standing-next-to-a-bar-counter-with-bottles-of-whisky.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-10318035.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-6963309.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-7322152.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-3764894.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/free-photo-of-woman-with-macallan-whisky.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-13732072.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-6962272.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-13836781.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-4279100.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-6961896.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-4279101.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-7319466.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-10318036.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-3769719.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-8679084.jpeg",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/woman_whiskey_1.png",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-3769719.webp",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-9209723.webp",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-2611814.webp",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/whiskey/pexels-photo-6963309.webp",
+    "reference": "a photo of a woman with a whiskey",
+    "good_caption": "a woman with a whiskey",
+    "bad_caption": "a man with a whiskey"
+  }
+]

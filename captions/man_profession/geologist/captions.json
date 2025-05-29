@@ -1,0 +1,740 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_35.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_16.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_4.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_32.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_11.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_20.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_5.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_23.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_28.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_2.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_26.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_52.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_7.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_18.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_43.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_0.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_11.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_32.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_4.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_4.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_20.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_16.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_3.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_3.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_12.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_23.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_24.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_2.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_43.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_53.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_27.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_54.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_22.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_30.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_26.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_4.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_2.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_10.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_5.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_12.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_41.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_39.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_25.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_14.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_13.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_8.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_26.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_17.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_2.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_10.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_5.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_5.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_45.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_6.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_28.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_28.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_19.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_9.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_10.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_33.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_26.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_17.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_48.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_13.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_6.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_30.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_6.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_34.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_1.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_1.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_5.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_46.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_8.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_8.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_24.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_23.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_28.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_9.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_50.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_34.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_17.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_0.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_59.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_33.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_14.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_6.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_10.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_1.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_17.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_30.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_13.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_42.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_19.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_8.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_47.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_9.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_4.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_40.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_15.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_0.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_12.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_49.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_7.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_7.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_16.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_11.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_20.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_1_8.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_9.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_18.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_0.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_7.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_3_20.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_58.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_2_32.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_11.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_23.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_0_18.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_22.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/male_geologist_4_25.jpg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/pexels-photo-5909436.jpeg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/pexels-photo-5908677.jpeg",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/geologist/man_geologist_60.png",
+    "reference": "a photo of a man who is a geologist",
+    "good_caption": "a man who is a geologist",
+    "bad_caption": "a woman who is a geologist"
+  }
+]

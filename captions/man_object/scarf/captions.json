@@ -1,0 +1,1412 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_20.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_3.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_11.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_35.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_16.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_4.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_27.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_18.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_13.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_29.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_40.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_14.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/487904.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_21.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/301461.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_23.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_1.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_6.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_23.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_2.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_12.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_5.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_51.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_15.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_24.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_27.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_11.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_4.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_47.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_20.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_35.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_49.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_29.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_32.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_18.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_30.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_43.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_44.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_38.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_24.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_2.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_15.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/24958.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_31.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_5.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_4.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_50.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_14.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_25.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_22.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_29.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_9.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_57.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_30.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_13.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_27.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_7.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_59.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_20.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_0.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_15.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_12.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_19.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_46.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_28.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_34.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/20161.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_5.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_17.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_26.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_21.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_10.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_2.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_19.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_13.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_30.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_22.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_4.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_25.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_3.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_14.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/326776.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_45.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_39.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_42.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_28.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_33.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_19.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_31.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_34.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_10.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_33.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_5.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_21.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_2.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_41.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_26.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_34.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_0.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_26.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/540196.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_17.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_10.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_7.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_21.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/194510.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_41.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_9.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_46.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_28.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/298459.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_32.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_1.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_25.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_42.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_14.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_30.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_6.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_22.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_21.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_0.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_54.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_10.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_7.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_17.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_26.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_9.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_19.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_28.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_23.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/359034.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_26.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_4.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_39.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_8.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_45.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_42.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_16.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_22.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_18.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_13.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_1.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/440931.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_37.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_6.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_14.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_25.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_38.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_7.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_23.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_0.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_24.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/172087.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_33.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_34.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_9.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_40.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_8.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_11.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_9.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_6.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_20.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_2_1.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_35.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_15.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_7.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_24.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_60.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/229270.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_23.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_31.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_12.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_19.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_43.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_17.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_38.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_9.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/571603.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_12.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1_44.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/434689.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_25.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_27.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_5.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_8.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/227882.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_18.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_4_22.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_29.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_20.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_52.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_6.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_0_16.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_27.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_20.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_29.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_3_1.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_55.jpg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-715546.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-11515657.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-3851767.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-5264944.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-7233022.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-5941414.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-8939040.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-9643177.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-7256465.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_1.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-16007423.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-3777562.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-6315354.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-8957764.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-8962331.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-5941430.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_46.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-775091.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-5872069.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-16891478.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/man_scarf_22.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-5636942.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-5745265.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-5745251.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-7869604.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-9301467.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-6289787.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-9643189.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-3907595.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-9643276.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-7084364.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-9301477.jpeg",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-9773019.png",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_object/scarf/pexels-photo-9773012.png",
+    "reference": "a photo of a man with a scarf",
+    "good_caption": "a man with a scarf",
+    "bad_caption": "a woman with a scarf"
+  }
+]

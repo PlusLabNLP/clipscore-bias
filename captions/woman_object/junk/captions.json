@@ -1,0 +1,1196 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_30.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_1.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_2_27.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_36.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_24.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_43.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_38.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_44.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_18.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_32.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_11.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_20.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_27.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_12.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_2_31.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_28.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_15.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_21.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_26.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_1.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_45.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_6.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_42.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_22.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_30.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_25.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_33.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_4.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_34.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_19.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_31.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_2_28.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_25.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_14.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_2_30.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_22.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_29.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_34.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_33.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_10.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_21.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_15.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_46.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_12.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_23.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_19.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_24.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_2_33.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_21.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_26.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_25.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_25.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_14.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_11.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_2.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_28.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_34.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_33.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_7.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_2_22.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_0.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_13.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_30.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_32.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_44.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_38.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_10.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_36.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_31.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_12.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_0_23.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_16.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_11.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_2_32.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_9.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_29.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_8.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_33.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_2.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_3_5.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_4_6.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_2_24.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_35.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_27.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_1_29.jpg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697265.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-4691102.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6696907.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512807.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512934.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6550824.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7475070.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512967.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6550796.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-11929016.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697275.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6696944.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-4960229.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801182.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6516012.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-4080769.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6550819.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6280939.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-8885337.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801177.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-5714318.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801183.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-2873019.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6550818.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-11532928.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801187.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6696941.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-9300945.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7552088.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-5714335.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801176.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697347.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512823.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6550821.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801193.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801310.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6280930.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-4691103.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801339.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-8551152.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801197.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512768.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512759.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-4004462.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-10652991.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-11929026.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801166.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512802.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697278.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697357.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-1814395.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6516042.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6696947.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801181.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801168.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512825.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801204.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697341.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512766.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/woman_junk_38.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-5895424.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6696943.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-5341488.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801200.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697266.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801191.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6551399.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801214.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801189.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-12193470.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-4691105.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6280936.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512818.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6550827.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6550816.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7475073.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-4348785.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-11929024.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-5341498.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-5714316.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801210.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801322.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801190.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801188.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-11929021.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-8484661.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801194.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-2873016.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512773.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801211.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6516043.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512913.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801180.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697369.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801205.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-3064236.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697286.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801198.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512792.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-9483280.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801219.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801201.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512820.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7801537.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-4004469.jpeg",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7512776.webp",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697375.webp",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6280937.webp",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6280935.webp",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-7475658.webp",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6697285.webp",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/junk/pexels-photo-6516026.webp",
+    "reference": "a photo of a woman with a junk",
+    "good_caption": "a woman with a junk",
+    "bad_caption": "a man with a junk"
+  }
+]

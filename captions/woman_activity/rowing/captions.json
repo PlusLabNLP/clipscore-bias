@@ -1,0 +1,1388 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_9.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/144608.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_29.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_30.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_27.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_0.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_16.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_7.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_11.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_20.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_24.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_15.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_1.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_12.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_6.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_31.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/153543.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_42.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_8.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_2.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_43.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_39.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_5.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_44.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_45.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_38.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/rowing0031.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_13.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_29.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_9.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_40.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_14.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_20.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_0.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_32.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_11.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_16.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_27.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_7.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_28.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_1.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_31.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_12.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_15.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_24.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_6.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_8.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_21.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/rowing0003.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_26.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_38.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/rowing0021.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_4.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_45.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_44.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_43.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_9.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_3.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_42.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_13.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_7.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_30.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_22.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_5.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_25.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_14.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_37.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_0.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_6.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_10.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_33.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_1.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_34.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_28.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_19.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_31.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/558851.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/rowing0014.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_9.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_20.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_14.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_7.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_25.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/84803.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_29.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_0.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_12.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_30.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_13.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/342334.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_34.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_17.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_26.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_6.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_21.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_1.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_33.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_20.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_41.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/476709.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_15.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/rowing0030.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_19.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_12.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_28.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_8.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_46.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_19.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_18.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_23.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_28.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/rowing0001.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_24.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_11.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_21.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_3.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_33.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_10.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/3326.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_17.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_4.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_22.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/344507.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_2.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_30.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_18.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_23.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_37.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_14.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_25.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_5.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_39.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_11.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/208107.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_45.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_51.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_16.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_0.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_41.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_28.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_46.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_19.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_26.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_9.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_17.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_3.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_34.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/251250.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_10.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_33.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_4.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_25.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_14.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_2.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_13.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_5.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_22.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/rowing0010.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_32.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_38.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/473052.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_10.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_44.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_15.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_25.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_24.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_4.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_23.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_3.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_31.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_19.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_12.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_22.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_16.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_17.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_5.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_27.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_10.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_2.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_32.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_11.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_18.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_19.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_29.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_22.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_12.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_4.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_31.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_23.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/379108.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_24.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_15.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_3.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_11.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_32.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_5.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_20.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_27.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_8.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_48.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_3_2.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_35.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_1_29.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_6.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_46.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_2_18.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_41.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_4_1.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_0_40.jpg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-11393772.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-7319061.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/free-photo-of-mother-and-daughter-on-boat-on-stream.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-4627452.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-14622038.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-2134673.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-10551252.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-9377578.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-3693080.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-6551076.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-7452487.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-7537870.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-7319062.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-7828572.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-3682409.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-6447984.jpeg",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/woman_rowing_9.png",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_activity/rowing/pexels-photo-6551088.webp",
+    "reference": "a photo of a woman who is rowing",
+    "good_caption": "a woman who is rowing",
+    "bad_caption": "a man who is rowing"
+  }
+]

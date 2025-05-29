@@ -1,0 +1,674 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_9.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_27.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/man_clerk_4.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_7.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/man_clerk_40.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_34.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_33.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_27.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/man_clerk_58.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_0_16.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_4.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_25.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_44.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_17.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_19.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_12.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_32.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_19.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_6.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_1.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_5.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_0_33.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_8.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_0_4.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_37.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_14.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_42.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_11.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_24.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_26.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_34.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_5.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_33.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_0_10.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_33.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_19.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_12.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_41.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_27.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_30.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_29.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_22.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_25.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_34.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_0.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_7.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_9.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_31.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/man_clerk_39.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_0_42.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_2.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_5.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/man_clerk_1.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_14.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_1.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_24.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_0_15.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_31.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_0_12.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_28.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_9.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_14.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_4_13.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_3_18.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_35.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_24.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_0_44.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/man_clerk_7.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_1_6.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/male_clerk_2_27.jpg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5668765.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-7063752.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-15163985.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-9078001.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-6574877.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5622364.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8422720.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8475167.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-7128988.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-14458537.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5668774.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5668781.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-13950172 3.21.44 PM.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-9068369.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-9077989.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5668791.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-7128952.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8422716.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-13439959.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-7128956.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-13981195.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-9068367.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-9068373.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/free-photo-of-clerk-working-at-grocery-store.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8422707.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8475168.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8422726.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8422717.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5325103.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5920589.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-9068397.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-10467168.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8475189.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8422740.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-9068366.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5668773.jpeg",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8422717.webp",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8475170.webp",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5668775.webp",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5668791.webp",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-5920582.webp",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_profession/clerk/pexels-photo-8422710.webp",
+    "reference": "a photo of a man who is a clerk",
+    "good_caption": "a man who is a clerk",
+    "bad_caption": "a woman who is a clerk"
+  }
+]

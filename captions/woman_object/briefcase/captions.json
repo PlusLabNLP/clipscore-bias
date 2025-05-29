@@ -1,0 +1,710 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/441995.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_13.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_0_39.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_5.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_28.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_21.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_33.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_34.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_1.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_26.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_25.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_30.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_0_0.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_20.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_15.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_12.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_19.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/350326.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_0.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_27.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_7.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_20.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_32.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_3.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_4.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_29.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_15.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_16.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/206747.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_18.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_0_12.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_23.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_15.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_12.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_19.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_1_31.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_10.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_22.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_29.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_27.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_0_11.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_0_2.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_4.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_23.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_31.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_3.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_33.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_7.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/534395.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/396868.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_34.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_0.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_1_29.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_11.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_16.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_0_10.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_33.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_21.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_23.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_24.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_11.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_18.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_13.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/110547.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_14.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_1.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_6.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_4_8.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_2.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_25.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_2_22.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/woman_briefcase_3_30.jpg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6535730.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6538445.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6266665.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-3885601.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-4944999.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-5999949.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-13374500.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6649422.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6531738.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6649413.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-3885590.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6649423.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6348212.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-13720841.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-7057212.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6532133.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-7517928.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-9319320.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6533052.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6000178.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6266508.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6532353.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-9286495.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-9158465.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6531727.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6532095.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6535369.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-5766300.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6533061.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-7841440.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-12259229.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6000079.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-9319316.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6533055.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6533064.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6000119.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-10004711.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6650000.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6532109.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6266673.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-5766324.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6532111.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-3885592.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-13235329.jpeg",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/woman_object/briefcase/pexels-photo-6650010.webp",
+    "reference": "a photo of a woman with a briefcase",
+    "good_caption": "a woman with a briefcase",
+    "bad_caption": "a man with a briefcase"
+  }
+]

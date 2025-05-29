@@ -1,0 +1,2828 @@
+[
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_13.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0368.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0127.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0546.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_1.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0314.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_29.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0004.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_6.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0465.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0313.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_25.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_15.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0419.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_14.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0590.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0237.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_8.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_20.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0183.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0294.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0361.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0239.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0071.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0410.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0366.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0599.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0548.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0242.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_27.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0184.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0534.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0293.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_28.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0425.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0044.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_46.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0459.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0160.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0328.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0611.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0270.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_15.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0354.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0385.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_41.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0326.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0031.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0508.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0574.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0115.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_0.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0202.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0573.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0112.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0205.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0321.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0486.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_27.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0618.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0279.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_1.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_37.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0268.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_25.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0446.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0497.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_22.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0178.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0490.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_6.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0517.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0339.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_42.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_8.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0433.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0394.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0083.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0345.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0393.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0084.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_39.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0266.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0499.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0559.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0588.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0401.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0144.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0525.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0195.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0143.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0285.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0254.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0228.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0067.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_4.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_28.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0406.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_17.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_34.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0302.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_0.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0131.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0069.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0408.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0136.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0557.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0305.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0473.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0113.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0456.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_16.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0327.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0480.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0451.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0509.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_21.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0168.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_11.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_20.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0575.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0507.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0610.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0093.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0355.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0423.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0384.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0042.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_40.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_29.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0383.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0424.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_54.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_8.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0500.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0161.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0617.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0276.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0598.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0154.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_9.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0244.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0625.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0153.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0295.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0360.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0238.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_7.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0312.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0079.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0418.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_15.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0236.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0591.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0540.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0369.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_12.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0596.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0126.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0547.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0002.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0463.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_0.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0315.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_23.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_28.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0137.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0556.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_6.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0378.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_20.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_11.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_6.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0303.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_1.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0130.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0551.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0580.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0068.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0409.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_18.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0284.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0255.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_30.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0193.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0371.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_29.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0589.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_2.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0400.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0145.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0252.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0194.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_8.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0392.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0054.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0085.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_38.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0606.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0511.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0516.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0177.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_43.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0338.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_9.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0395.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0053.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0518.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_23.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0440.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0336.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_31.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0215.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_0.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0608.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0269.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_24.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0026.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0331.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0258.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_2.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0476.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0017.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0552.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_8.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0555.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0134.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0223.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0529.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0148.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0199.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0471.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0375.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_1.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0527.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0146.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_34.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0309.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0287.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0520.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_33.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0478.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0019.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0372.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0404.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0263.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0174.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0515.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_40.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0050.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0396.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0431.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0081.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0218.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0057.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_18.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0436.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0391.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0264.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0216.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0101.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_48.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_3.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0438.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0025.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0444.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0495.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_20.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0443.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_4.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_11.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0398.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0349.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_32.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0483.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_12.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_23.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0389.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0200.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_24.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0048.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0429.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_5.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0484.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0455.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_25.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0351.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0046.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0380.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0427.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_57.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0209.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_38.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0503.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0275.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_10.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0165.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0504.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0356.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0090.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0119.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_50.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_43.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0626.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_29.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0531.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0150.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0415.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0363.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_18.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0412.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0073.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0364.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0240.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0291.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0536.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0157.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0595.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0544.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0125.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_3.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0460.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0316.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0538.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0467.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0311.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_17.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_16.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0235.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_21.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0023.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0442.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0334.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0210.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_5.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0566.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_10.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0399.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_33.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0348.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0217.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_2.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0561.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0439.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_34.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0089.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0024.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0445.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0494.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0333.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0219.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0390.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0341.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0604.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0262.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0514.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_41.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0568.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0430.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0346.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0080.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0521.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0191.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0479.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0018.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0373.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0374.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_0.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0526.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0250.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0554.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0222.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_13.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0149.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0198.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0306.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0470.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_14.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0259.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0553.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0132.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0225.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0629.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0248.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_26.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_16.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0299.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_2_34.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_17.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0234.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0542.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_10.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0233.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0124.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0461.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0317.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0189.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_21.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0539.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0158.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0365.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0319.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0187.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_24.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0241.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0156.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0468.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0627.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_23.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0246.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_28.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0530.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0151.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_19.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0505.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_16.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0612.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0357.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0091.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0040.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0386.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0118.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0579.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0350.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0096.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_45.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_56.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_39.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_11.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0274.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_25.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0111.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0570.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0322.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0485.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0454.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_1_37.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0482.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0453.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3_13.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_4_18.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0359.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_0_22.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0388.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0116.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/smiling0201.jpg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-3831569.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-1182238.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-4939638.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-834863.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-16771672.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-15786934.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-15538771.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-3952022.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-1049317.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-1456951.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-933185.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-8217533.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-1157395.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-15530671.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-3215733.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-4584608.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-15531444.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-1484799.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-1320701.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-325693.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/pexels-photo-3206114.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_20.jpeg",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_3.png",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  },
+  {
+    "image_path": "../PAO-EvalBias-images/man_activity/smiling/man_smiling_9.png",
+    "reference": "a photo of a man who is smiling",
+    "good_caption": "a man who is smiling",
+    "bad_caption": "a woman who is smiling"
+  }
+]
